@@ -3,137 +3,84 @@
   "events": [
     {
       "id": "ucp-sovereignty-act-2022",
-      "type": "priority",
       "date": "2022-12-08",
       "title": "Alberta Sovereignty Within a United Canada Act Passed",
-      "category": ["governance", "rights"],
+      "description": "The Alberta government enacted the Sovereignty Act, authorizing the province to defy specific federal laws and regulations. Critics warned of constitutional risks and business uncertainty.\n\nQuote: \"An act to protect Alberta from federal overreach,\" said Premier Danielle Smith.",
+      "category": "governance",
       "ministry": "Executive Council",
-      "milestone": true,
-      "details": {
-        "description": "The Alberta government enacted the Sovereignty Act, authorizing the province to defy specific federal laws and regulations. Critics warned of constitutional risks and business uncertainty.",
-        "quote": "\"An act to protect Alberta from federal overreach,\" said Premier Danielle Smith.",
-        "impact": [
-          "Federal-provincial relations strained",
-          "Legal challenges launched by private citizens and Indigenous groups"
-        ],
-        "reversibility": "Would require repeal by provincial legislature."
-      },
-      "legalChallenges": [
-        {
-          "party": "Athabasca Chipewyan First Nation",
-          "status": "active",
-          "description": "Claim: Act infringes on Indigenous treaty rights."
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://globalnews.ca/news/9342855/alberta-sovereignty-act-passed/",
-          "title": "Alberta Sovereignty Act passes, Indigenous groups launch legal action"
-        }
-      ]
+      "source_url": "https://globalnews.ca/news/9342855/alberta-sovereignty-act-passed/",
+      "impact_level": "high",
+      "analysis": {
+        "patterns": "Federal-provincial relations strained • Legal challenges launched by private citizens and Indigenous groups",
+        "charterRights": [
+          {
+            "section": "Section 35",
+            "impactType": "threatened",
+            "justification": "Provincial authority to defy federal law raises treaty rights concerns",
+            "courtChallengeStatus": "active"
+          }
+        ]
+      }
     },
     {
       "id": "ucp-bill18-online-harms",
-      "type": "priority",
       "date": "2023-05-01",
       "title": "Bill 18: Alberta Online Harms Act",
-      "category": ["speech", "legislation"],
+      "description": "The UCP introduced Bill 18, which mandates social media companies to reduce the spread of hate content and misinformation. Critics claim it combines real harms and vague provisions.",
+      "category": "speech",
       "ministry": "Justice",
-      "milestone": false,
-      "details": {
-        "description": "The UCP introduced Bill 18, which mandates social media companies to reduce the spread of hate content and misinformation. Critics claim it combines real harms and vague provisions.",
-        "impact": [
-          "Creates new provincial digital regulator",
-          "Civil liberties groups express concern",
-          "Unclear coordination with federal Bill C-36"
-        ],
-        "reversibility": "Bill may be amended or repealed by a new government."
-      },
-      "legalChallenges": [],
-      "sources": [
-        {
-          "url": "https://edmontonjournal.com/news/politics/ucp-online-harms-bill-internet/",
-          "title": "Alberta introduces new bill targeting online hate"
-        }
-      ]
+      "source_url": "https://edmontonjournal.com/news/politics/ucp-online-harms-bill-internet/",
+      "impact_level": "medium",
+      "analysis": {
+        "patterns": "Creates new provincial digital regulator • Civil liberties groups express concern • Unclear coordination with federal Bill C-36"
+      }
     },
     {
       "id": "ucp-affordability-payment-2023",
-      "type": "priority",
       "date": "2023-01-18",
       "title": "UCP Launches $600 Affordability Payments",
-      "category": ["finance", "governance"],
+      "description": "To help with inflation, UCP approved $600 affordability payments to all households earning under $180,000/year and extra support to AISH recipients and families.",
+      "category": "finance",
       "ministry": "Finance",
-      "milestone": false,
-      "details": {
-        "description": "To help with inflation, UCP approved $600 affordability payments to all households earning under $180,000/year and extra support to AISH recipients and families.",
-        "impact": [
-          "Over 1.2 million Albertans received relief",
-          "NDP called for more targeted supports"
-        ],
-        "reversibility": "One-time, not permanent. No legal challenges."
-      },
-      "legalChallenges": [],
-      "sources": [
-        {
-          "url": "https://globalnews.ca/news/9457767/alberta-affordability-payments-inflation/",
-          "title": "Alberta launches inflation relief payments"
-        }
-      ]
+      "source_url": "https://globalnews.ca/news/9457767/alberta-affordability-payments-inflation/",
+      "impact_level": "medium",
+      "analysis": {
+        "patterns": "Over 1.2 million Albertans received relief • NDP called for more targeted supports"
+      }
     },
     {
       "id": "ucp-minimum-wage-freeze-2024",
-      "type": "priority",
       "date": "2024-02-28",
       "title": "Minimum Wage Frozen for Third Year",
-      "category": ["wages", "labor"],
+      "description": "Alberta's minimum wage remains unchanged at $15/hour, causing Alberta to fall behind most of Canada. UCP government claims higher wages would reduce jobs.",
+      "category": "wages",
       "ministry": "Jobs, Economy and Northern Development",
-      "milestone": false,
-      "details": {
-        "description": "Alberta's minimum wage remains unchanged at $15/hour, causing Alberta to fall behind most of Canada. UCP government claims higher wages would reduce jobs.",
-        "impact": [
-          "Adjusted for inflation, real wage has fallen 8%",
-          "Labor groups call for restoration to $17/hr"
-        ],
-        "reversibility": "New cabinet decision could adjust wage by regulation."
-      },
-      "legalChallenges": [],
-      "sources": [
-        {
-          "url": "https://calgary.ctvnews.ca/no-increase-in-alberta-minimum-wage-in-2024-1.6434292",
-          "title": "Alberta to keep minimum wage frozen"
-        }
-      ]
+      "source_url": "https://calgary.ctvnews.ca/no-increase-in-alberta-minimum-wage-in-2024-1.6434292",
+      "impact_level": "medium",
+      "analysis": {
+        "patterns": "Adjusted for inflation, real wage has fallen 8% • Labor groups call for restoration to $17/hr"
+      }
     },
     {
       "id": "ucp-parents-rights-act-2024",
-      "type": "priority",
       "date": "2024-06-15",
       "title": "Parents' Rights Act: LGBTQ Education Restrictions",
-      "category": ["education", "rights"],
+      "description": "Legislation requires parental notification for any pronoun or gender support discussions. Critics state it endangers trans and gender-diverse students.",
+      "category": "education",
       "ministry": "Education",
-      "milestone": true,
-      "details": {
-        "description": "Legislation requires parental notification for any pronoun or gender support discussions. Critics state it endangers trans and gender-diverse students.",
-        "impact": [
-          "Teachers must seek parental approval for support",
-          "Backlash from mental health organizations"
-        ],
-        "reversibility": "The Act can be repealed or amended by a new government, but current law now restricts in-school supports."
-      },
-      "legalChallenges": [
-        {
-          "party": "Egale Canada (LGBTQ+ legal advocacy)",
-          "status": "filed",
-          "description": "Challenging as a violation of Charter and privacy rights."
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.cbc.ca/news/canada/calgary/recap-alberta-lgbtq-policies-schools-ucp-1.7215750",
-          "title": "Alberta passes Parents' Rights Act"
-        }
-      ]
+      "source_url": "https://www.cbc.ca/news/canada/calgary/recap-alberta-lgbtq-policies-schools-ucp-1.7215750",
+      "impact_level": "high",
+      "analysis": {
+        "patterns": "Teachers must seek parental approval for support • Backlash from mental health organizations",
+        "charterRights": [
+          {
+            "section": "Section 7",
+            "impactType": "restricted",
+            "justification": "Parental notification requirements may compromise student privacy and security",
+            "courtChallengeStatus": "filed"
+          }
+        ]
+      }
     }
   ]
 }
