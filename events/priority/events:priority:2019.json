@@ -1,0 +1,162 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2865
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "year": 2019,\
+  "events": [\
+    \{\
+      "id": "ucp-nurses-wage-freeze-2019",\
+      "type": "priority",\
+      "date": "2019-05-13",\
+      "title": "UCP Halts Nurses' Wage Arbitration",\
+      "category": ["labor", "healthcare"],\
+      "ministry": "Health",\
+      "milestone": true,\
+      "details": \{\
+        "description": "The UCP government immediately suspended arbitration proceedings for the United Nurses of Alberta contract dispute, effectively freezing wage negotiations. This move came just weeks after taking office, signaling a shift in labour relations policy.",\
+        "quote": "The UCP government is immediately suspending arbitration for the nurses' contract dispute while a review of Alberta Health Services is underway.",\
+        "sources": [\
+          \{\
+            "url": "https://www.cbc.ca/news/canada/calgary/alberta-nurses-contract-talks-1.5133771",\
+            "outlet": "CBC News",\
+            "mediaOrgId": "media-cbc",\
+            "publishDate": "2019-05-13",\
+            "accessed": "2025-11-07"\
+          \}\
+        ],\
+        "actors": ["Jason Kenney", "Tyler Shandro", "United Nurses of Alberta"],\
+        "organizations": ["United Nurses of Alberta", "Alberta Health Services"],\
+        "jurisdiction": "provincial"\
+      \},\
+      "analysis": \{\
+        "rightsImpact": \{\
+          "charterRights": [\
+            \{\
+              "section": "Section 2(d) - Freedom of Association",\
+              "description": "Protects the right to form and join unions, engage in collective bargaining",\
+              "impactType": "restricted",\
+              "governmentJustification": "Government stated suspension necessary during AHS review to ensure fiscal responsibility"\
+            \}\
+          ],\
+          "scope": "group",\
+          "reversibility": "temporary"\
+        \},\
+        "theoreticalFrameworks": \{\
+          "foucault": \{\
+            "governmentalityAspect": "Suspension of arbitration demonstrates shift from negotiated governance to disciplinary state power. The UCP exercised 'conduct of conduct' by removing neutral arbitration mechanism.",\
+            "disciplinaryPower": "Labor relations transformed from negotiation between equals to hierarchical control."\
+          \},\
+          "arendt": \{\
+            "totalitarianMarkers": "Early use of legislative power to override established institutional processes before exhausting negotiation.",\
+            "violence": "Structural violence through removal of negotiation tools."\
+          \}\
+        \},\
+        "patterns": [\
+          "First major labor relations action by UCP",\
+          "Part of broader public sector restructuring strategy"\
+        ],\
+        "connectedEvents": ["ucp-healthcare-privatization-2023", "ucp-bill-32-2020"],\
+        "connectionType": ["sequential", "thematic"]\
+      \},\
+      "metadata": \{\
+        "addedDate": "2025-11-07",\
+        "lastUpdated": "2025-11-07"\
+      \}\
+    \},\
+    \{\
+      "id": "ucp-corporate-tax-cut-2019",\
+      "type": "priority",\
+      "date": "2019-06-27",\
+      "title": "UCP Passes Corporate Tax Cut from 12% to 8%",\
+      "category": ["finance", "governance"],\
+      "ministry": "Treasury Board and Finance",\
+      "milestone": true,\
+      "details": \{\
+        "description": "The UCP government passed legislation to reduce Alberta's corporate tax rate from 12% to 8% over four years. Projected to cost $4.7 billion in foregone revenue by 2023.",\
+        "sources": [\
+          \{\
+            "url": "https://edmontonjournal.com/news/politics/alberta-budget-2019-corporate-tax-cuts",\
+            "outlet": "Edmonton Journal",\
+            "publishDate": "2019-06-27",\
+            "accessed": "2025-11-07"\
+          \}\
+        ],\
+        "financialImpact": \{\
+          "amount": 4700000000,\
+          "type": "tax-break",\
+          "description": "Cumulative revenue loss 2019-2023",\
+          "recipients": ["Corporations operating in Alberta"]\
+        \},\
+        "actors": ["Jason Kenney", "Travis Toews"],\
+        "jurisdiction": "provincial"\
+      \},\
+      "analysis": \{\
+        "rightsImpact": \{\
+          "otherRights": ["Access to public services (indirect impact)"],\
+          "scope": "systemic",\
+          "reversibility": "permanent"\
+        \},\
+        "patterns": [\
+          "Largest corporate tax cut in Alberta history",\
+          "No job creation requirements attached"\
+        ],\
+        "connectedEvents": ["ucp-education-funding-cuts-2020", "ucp-healthcare-cuts-2020"],\
+        "connectionType": ["financial", "causal"]\
+      \},\
+      "metadata": \{\
+        "addedDate": "2025-11-07",\
+        "lastUpdated": "2025-11-07"\
+      \}\
+    \},\
+    \{\
+      "id": "ucp-youth-minimum-wage-2019",\
+      "type": "priority",\
+      "date": "2019-06-26",\
+      "title": "Youth Minimum Wage Reduced to $13/hour",\
+      "category": ["labor", "finance"],\
+      "ministry": "Labour and Immigration",\
+      "details": \{\
+        "description": "The UCP reinstated a lower minimum wage for youth workers under 18, setting it at $13/hour compared to the general $15/hour. This reversed the previous NDP policy.",\
+        "sources": [\
+          \{\
+            "url": "https://edmontonjournal.com/news/politics/alberta-budget-2019-youth-minimum-wage",\
+            "outlet": "Edmonton Journal",\
+            "publishDate": "2019-06-26",\
+            "accessed": "2025-11-07"\
+          \}\
+        ],\
+        "financialImpact": \{\
+          "amount": -2,\
+          "type": "cut",\
+          "description": "$2/hour wage reduction for workers under 18"\
+        \},\
+        "actors": ["Jason Kenney", "Jason Copping"],\
+        "jurisdiction": "provincial"\
+      \},\
+      "analysis": \{\
+        "rightsImpact": \{\
+          "otherRights": ["Fair wage", "Economic equality"],\
+          "scope": "group",\
+          "reversibility": "temporary"\
+        \},\
+        "theoreticalFrameworks": \{\
+          "foucault": \{\
+            "biopolitics": "Creation of differentiated labor class based on age demonstrates biopolitical governance\'97managing population segments differently."\
+          \}\
+        \},\
+        "patterns": ["Reversal of NDP labor policies", "Disproportionate impact on young workers"],\
+        "connectedEvents": ["ucp-bill-32-2020"],\
+        "connectionType": ["sequential", "thematic"]\
+      \},\
+      "metadata": \{\
+        "addedDate": "2025-11-07",\
+        "lastUpdated": "2025-11-07"\
+      \}\
+    \}\
+  ]\
+\}\
+}

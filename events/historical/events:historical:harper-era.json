@@ -1,0 +1,110 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2865
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "category": "Harper Era (2006-2015)",\
+  "events": [\
+    \{\
+      "id": "harper-cbc-cuts-2012",\
+      "type": "historical",\
+      "date": "2012-03-29",\
+      "title": "Harper Government Cuts $115M from CBC",\
+      "category": ["media", "finance", "governance"],\
+      "details": \{\
+        "description": "The Harper Conservative government cut $115 million from CBC's budget, forcing layoffs of 650 employees and reducing programming. This was part of a broader pattern of defunding public broadcasting during the Harper years.",\
+        "sources": [\
+          \{\
+            "url": "https://www.cbc.ca/news/canada/cbc-cuts-jobs-programming-1.1172870",\
+            "outlet": "CBC News",\
+            "publishDate": "2012-04-10",\
+            "accessed": "2025-11-07"\
+          \}\
+        ],\
+        "financialImpact": \{\
+          "amount": -115000000,\
+          "type": "cut",\
+          "description": "CBC budget reduction"\
+        \},\
+        "actors": ["Stephen Harper", "James Moore"],\
+        "jurisdiction": "federal"\
+      \},\
+      "analysis": \{\
+        "patterns": [\
+          "Systematic defunding of public broadcasting",\
+          "Pattern continued by provincial conservatives"\
+        ],\
+        "connectedEvents": ["harper-media-consolidation-2013"],\
+        "connectionType": ["thematic"]\
+      \},\
+      "metadata": \{\
+        "addedDate": "2025-11-07",\
+        "lastUpdated": "2025-11-07",\
+        "notes": "Establishes pattern of conservative government hostility to public broadcasting"\
+      \}\
+    \},\
+    \{\
+      "id": "harper-climate-science-muzzling-2013",\
+      "type": "historical",\
+      "date": "2013-07-16",\
+      "title": "Harper Government Muzzles Federal Scientists",\
+      "category": ["environment", "governance", "rights"],\
+      "details": \{\
+        "description": "The Harper government imposed strict media protocols preventing federal scientists from speaking publicly about their research without government approval. This particularly affected climate scientists, with thousands of position eliminations and library closures.",\
+        "quote": "Scientists are not allowed to speak to media without pre-authorization from the Prime Minister's Office.",\
+        "sources": [\
+          \{\
+            "url": "https://www.nature.com/news/canadian-scientists-push-for-freedom-to-speak-1.13332",\
+            "outlet": "Nature",\
+            "publishDate": "2013-07-16",\
+            "accessed": "2025-11-07"\
+          \}\
+        ],\
+        "actors": ["Stephen Harper", "Environment Canada"],\
+        "jurisdiction": "federal"\
+      \},\
+      "analysis": \{\
+        "rightsImpact": \{\
+          "charterRights": [\
+            \{\
+              "section": "Section 2(b) - Freedom of Expression",\
+              "description": "Scientists' ability to communicate research restricted",\
+              "impactType": "restricted"\
+            \}\
+          ],\
+          "scope": "systemic",\
+          "reversibility": "temporary"\
+        \},\
+        "theoreticalFrameworks": \{\
+          "foucault": \{\
+            "governmentalityAspect": "Control of scientific knowledge production. State determines which knowledge can enter public discourse.",\
+            "disciplinaryPower": "Scientists disciplined through bureaucratic control rather than direct censorship."\
+          \},\
+          "arendt": \{\
+            "totalitarianMarkers": "Subordination of factual truth to political ideology. Arendt identified fact-based reality suppression as totalitarian characteristic."\
+          \}\
+        \},\
+        "patterns": [\
+          "Ideology over evidence",\
+          "Suppression of inconvenient facts",\
+          "Anti-intellectualism in policy"\
+        ],\
+        "connectedEvents": ["ucp-curriculum-controversy-2021"],\
+        "connectionType": ["thematic"]\
+      \},\
+      "metadata": \{\
+        "addedDate": "2025-11-07",\
+        "lastUpdated": "2025-11-07",\
+        "notes": "Demonstrates broader conservative movement hostility to scientific authority"\
+      \}\
+    \},\
+    \{\
+      "id": "harper-status-of-women-2006",\
+      "type": "historical",\
+      "date": "2006-09-25",\
+      "title": "Harper Cuts Status of Women Canada Funding",\
+      "category": ["rights", "finance"],\
+}
