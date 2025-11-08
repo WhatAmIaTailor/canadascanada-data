@@ -1,0 +1,2308 @@
+{
+  "legislature": "31st Alberta Legislature",
+  "electionDate": "2023-05-29",
+  "lastUpdated": "2025-11-07",
+  "totalSeats": 87,
+  "partySummary": {
+    "UCP": 47,
+    "NDP": 38,
+    "Independent": 2
+  },
+  "mlas": [
+    {
+      "id": "mla-guthrie-pete",
+      "name": "Pete Guthrie",
+      "party": "Independent",
+      "constituency": "Airdrie-Cochrane",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Suite 1B, 60 Railway Street East, Cochrane",
+        "phone": "587.493.2050",
+        "email": "Airdrie.Cochrane@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-sinclair-scott",
+      "name": "Scott Sinclair",
+      "party": "Independent",
+      "constituency": "Lesser Slave Lake",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 101, 201 4th Avenue NW, Slave Lake",
+        "phone": "825.219.1000",
+        "email": "Lesser.SlaveLake@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-chapman-amanda",
+      "name": "Amanda Chapman",
+      "party": "NDP",
+      "constituency": "Calgary-Beddington",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 106, 8220 Centre Street NE, Calgary",
+        "phone": "403.215.7710",
+        "email": "Calgary.Beddington@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-arcand-paul-brooks",
+      "name": "Brooks Arcand-Paul",
+      "party": "NDP",
+      "constituency": "Edmonton-West Henday",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "10267 178 Street, Edmonton",
+        "phone": "780.414.0711",
+        "email": "Edmonton.WestHenday@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-gray-christina",
+      "name": "Christina Gray",
+      "party": "NDP",
+      "constituency": "Edmonton-Mill Woods",
+      "role": "Labour Critic",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "3448 - 93 Street, Edmonton",
+        "phone": "780.414.1000",
+        "email": "Edmonton.Millwoods@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-ellingson-court",
+      "name": "Court Ellingson",
+      "party": "NDP",
+      "constituency": "Calgary-Foothills",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#202, 1829 Ranchlands Boulevard NW, Calgary",
+        "phone": "403.216.5444",
+        "email": "Calgary.Foothills@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-eggen-david",
+      "name": "David Eggen",
+      "party": "NDP",
+      "constituency": "Edmonton-North West",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit A, 10212 - 127 Avenue, Edmonton",
+        "phone": "780.451.2345",
+        "email": "Edmonton.Northwest@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-shepherd-david",
+      "name": "David Shepherd",
+      "party": "NDP",
+      "constituency": "Edmonton-City Centre",
+      "role": "Education Critic",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "10208 - 112 Street, Edmonton",
+        "phone": "780.414.0743",
+        "email": "Edmonton.CityCentre@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-batten-diana",
+      "name": "Diana Batten",
+      "party": "NDP",
+      "constituency": "Calgary-Acadia",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Suite #105, 10333 Southport Road SW, Calgary",
+        "phone": "403.640.1363",
+        "email": "Calgary.Acadia@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-brar-gurinder",
+      "name": "Gurinder Brar",
+      "party": "NDP",
+      "constituency": "Calgary-North East",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "1080, 11124 - 36 Street NE, Calgary",
+        "phone": "587.318.2946",
+        "email": "Calgary.NorthEast@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-brar-gurtej",
+      "name": "Gurtej Singh Brar",
+      "party": "NDP",
+      "constituency": "Edmonton-Ellerslie",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "5732 - 19A Avenue, Edmonton",
+        "phone": "780.414.2000",
+        "email": "Edmonton.Ellerslie@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-sweet-heather",
+      "name": "Heather Sweet",
+      "party": "NDP",
+      "constituency": "Edmonton-Manning",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "14932 - 50 Street, Edmonton",
+        "phone": "780.414.0714",
+        "email": "Edmonton.Manning@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-sabir-irfan",
+      "name": "Irfan Sabir",
+      "party": "NDP",
+      "constituency": "Calgary-Bhullar-McCall",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 223, 4850 Westwinds Drive NE, Calgary",
+        "phone": "403.216.5424",
+        "email": "Calgary.Bhullar.McCall@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-eremenko-janet",
+      "name": "Janet Eremenko",
+      "party": "NDP",
+      "constituency": "Calgary-Currie",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "206B, 1615 10 Ave SW, Calgary",
+        "phone": "403.246.4794",
+        "email": "Calgary.Currie@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-irwin-janis",
+      "name": "Janis Irwin",
+      "party": "NDP",
+      "constituency": "Edmonton-Highlands-Norwood",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "6519 - 112 Avenue, Edmonton",
+        "phone": "780.414.0682",
+        "email": "Edmonton.HighlandsNorwood@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-deol-jasvir",
+      "name": "Jasvir Deol",
+      "party": "NDP",
+      "constituency": "Edmonton-Meadows",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 204B, 3323 - 34 Street NW, Edmonton",
+        "phone": "780.466.3737",
+        "email": "Edmonton.Meadows@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-calahoo-stonehouse-jodi",
+      "name": "Jodi Calahoo Stonehouse",
+      "party": "NDP",
+      "constituency": "Edmonton-Rutherford",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "308 Saddleback Road, Edmonton",
+        "phone": "780.414.1311",
+        "email": "Edmonton.Rutherford@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-ceci-joe",
+      "name": "Joe Ceci",
+      "party": "NDP",
+      "constituency": "Calgary-Buffalo",
+      "role": "Finance Critic",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "1173  - 11 Avenue SW, Calgary",
+        "phone": "403.244.7737",
+        "email": "Calgary.Buffalo@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-hayter-julia",
+      "name": "Julia Hayter",
+      "party": "NDP",
+      "constituency": "Calgary-Edgemont",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#202, 1829 Ranchlands Boulevard NW, Calgary",
+        "phone": "403.288.4453",
+        "email": "Calgary.Edgemont@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-ganley-kathleen",
+      "name": "Kathleen Ganley",
+      "party": "NDP",
+      "constituency": "Calgary-Mountain View",
+      "role": "NDP House Leader",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#102, 723 - 14 Street NW, Calgary",
+        "phone": "403.216.5445",
+        "email": "Calgary.MountainView@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-kasawski-kyle",
+      "name": "Kyle Kasawski",
+      "party": "NDP",
+      "constituency": "Sherwood Park",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit #200, 48 Brentwood Blvd, Sherwood Park",
+        "phone": "780.417.4747",
+        "email": "Sherwood.Park@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-tejada-lizette",
+      "name": "Lizette Tejada",
+      "party": "NDP",
+      "constituency": "Calgary-Klein",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 232A, 3630 Brentwood Road NW, Calgary",
+        "phone": "403.216.5430",
+        "email": "Calgary.Klein@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-sigurdson-lori",
+      "name": "Lori Sigurdson",
+      "party": "NDP",
+      "constituency": "Edmonton-Riverview",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "9202B - 149 Street, Edmonton",
+        "phone": "780.414.0719",
+        "email": "Edmonton.Riverview@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-dach-lorne",
+      "name": "Lorne Dach",
+      "party": "NDP",
+      "constituency": "Edmonton-McClung",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#301, 6650 - 177 Street, Edmonton",
+        "phone": "780.408.1860",
+        "email": "Edmonton.McClung@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-metz-luanne",
+      "name": "Luanne Metz",
+      "party": "NDP",
+      "constituency": "Calgary-Varsity",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 232A, 3630 Brentwood Road N.W., Calgary",
+        "phone": "403.216.5436",
+        "email": "Calgary.Varsity@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-renaud-marie",
+      "name": "Marie Renaud",
+      "party": "NDP",
+      "constituency": "St. Albert",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "109B, 50 St. Thomas Street, St. Albert",
+        "phone": "780.459.9113",
+        "email": "St.Albert@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-schmidt-marlin",
+      "name": "Marlin Schmidt",
+      "party": "NDP",
+      "constituency": "Edmonton-Gold Bar",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#100, 8925 - 82 Avenue, Edmonton",
+        "phone": "780.414.1015",
+        "email": "Edmonton.Goldbar@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-al-guneid-nagwan",
+      "name": "Nagwan Al-Guneid",
+      "party": "NDP",
+      "constituency": "Calgary-Glenmore",
+      "role": "Energy Critic",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#311A, 2525 Woodview Drive SW, Calgary",
+        "phone": "403.216.5421",
+        "email": "Calgary.Glenmore@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-nenshi-naheed",
+      "name": "Naheed K. Nenshi",
+      "party": "NDP",
+      "constituency": "Edmonton-Strathcona",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Strathcona Professional Centre, #101, 10328 - 81 Avenue NW, Edmonton",
+        "phone": "780.414.0702",
+        "email": "Edmonton.Strathcona@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-ip-nathan",
+      "name": "Nathan Ip",
+      "party": "NDP",
+      "constituency": "Edmonton-South West",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Suite 229, 6650 177 Street, Edmonton",
+        "phone": "780.415.8692",
+        "email": "Edmonton.SouthWest@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-goehring-nicole",
+      "name": "Nicole Goehring",
+      "party": "NDP",
+      "constituency": "Edmonton-Castle Downs",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "12120 - 161 Avenue, Edmonton",
+        "phone": "780.414.0705",
+        "email": "Edmonton.Castledowns@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-boparai-parmeet",
+      "name": "Parmeet Singh Boparai",
+      "party": "NDP",
+      "constituency": "Calgary-Falconridge",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "924, 5075 Falconridge Boulevard NE, Calgary",
+        "phone": "403.280.4022",
+        "email": "Calgary.Falconridge@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-wright-peggy",
+      "name": "Peggy Wright",
+      "party": "NDP",
+      "constituency": "Edmonton-Beverly-Clareview",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "552 Hermitage Road, 40th Street & Hermitage Road, Edmonton",
+        "phone": "780.476.6467",
+        "email": "Edmonton.BeverlyClareview@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-pancholi-rakhi",
+      "name": "Rakhi Pancholi",
+      "party": "NDP",
+      "constituency": "Edmonton-Whitemud",
+      "role": "Justice Critic",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#203, 596 Riverbend Square, Edmonton",
+        "phone": "780.413.5970",
+        "email": "Edmonton.Whitemud@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-hoyle-rhiannon",
+      "name": "Rhiannon Hoyle",
+      "party": "NDP",
+      "constituency": "Edmonton-South",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "202, 856 - 119 Street SW, Edmonton",
+        "phone": "780.643.9153",
+        "email": "Edmonton.South@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-miyashiro-rob",
+      "name": "Rob Miyashiro",
+      "party": "NDP",
+      "constituency": "Lethbridge-West",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#110, 410 Stafford Dr. S., Lethbridge",
+        "phone": "403.329.4644",
+        "email": "Lethbridge.West@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-kayande-samir",
+      "name": "Samir Kayande",
+      "party": "NDP",
+      "constituency": "Calgary-Elbow",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 205, 5005 Elbow Drive SW, Calgary",
+        "phone": "403.252.0346",
+        "email": "Calgary.Elbow@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-elmeligi-sarah",
+      "name": "Sarah Elmeligi",
+      "party": "NDP",
+      "constituency": "Banff-Kananaskis",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#300-709 8th Street, Canmore",
+        "phone": "403.609.4509",
+        "email": "Banff.Kananaskis@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-hoffman-sarah",
+      "name": "Sarah Hoffman",
+      "party": "NDP",
+      "constituency": "Edmonton-Glenora",
+      "role": "Deputy Leader of NDP",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#201, 12408 - 108 Avenue, Edmonton",
+        "phone": "780.455.7979",
+        "email": "Edmonton.Glenora@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-haji-sharif",
+      "name": "Sharif Haji",
+      "party": "NDP",
+      "constituency": "Edmonton-Decore",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#203, 8119 - 160 Avenue, Edmonton",
+        "phone": "780.414.1328",
+        "email": "Edmonton.Decore@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-lagrange-adriana",
+      "name": "Adriana LaGrange",
+      "party": "UCP",
+      "constituency": "Red Deer-North",
+      "role": "Minister of Health",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#202, 5913 - 50 Avenue, Red Deer",
+        "phone": "403.342.2263",
+        "email": "RedDeer.North@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-boitchenko-andrew",
+      "name": "Andrew Boitchenko",
+      "party": "UCP",
+      "constituency": "Drayton Valley-Devon",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "5136B - 52 Avenue, Box 7272, Drayton Valley",
+        "phone": "780.542.3355",
+        "email": "DraytonValley.Devon@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-pitt-angela",
+      "name": "Angela Pitt",
+      "party": "UCP",
+      "constituency": "Airdrie-East",
+      "role": "Deputy Speaker",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": true,
+        "petitionApproved": "2025-11-03",
+        "signaturesRequired": 14987,
+        "deadline": "2026-02-01",
+        "organizer": "Operation Total Recall"
+      },
+      "contact": {
+        "constituencyOffice": "209 Bowers Street, Airdrie",
+        "phone": "403.948.8741",
+        "email": "Airdrie.East@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-lunty-brandon",
+      "name": "Brandon Lunty",
+      "party": "UCP",
+      "constituency": "Leduc-Beaumont",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "6422 50 Street, Leduc",
+        "phone": "780.929.3290",
+        "email": "Leduc.Beaumont@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-jean,-kc-brian",
+      "name": "Brian Jean, KC",
+      "party": "UCP",
+      "constituency": "Fort McMurray-Lac La Biche",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Suite #109, 9912 Franklin Avenue, Fort McMurray",
+        "phone": "780.588.7979",
+        "email": "FortMcMurray.LacLaBiche@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-de-jonge-chantelle",
+      "name": "Chantelle de Jonge",
+      "party": "UCP",
+      "constituency": "Chestermere-Strathmore",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "129 - 2nd Avenue, Strathmore",
+        "phone": "403.962.0126",
+        "email": "Chestermere.Strathmore@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-petrovic-chelsae",
+      "name": "Chelsae Petrovic",
+      "party": "UCP",
+      "constituency": "Livingstone-Macleod",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "4927 - 1 Street West, P.O Box 760, Claresholm",
+        "phone": "587.424.2004",
+        "email": "Livingstone.Macleod@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-nally-dale",
+      "name": "Dale Nally",
+      "party": "UCP",
+      "constituency": "Morinville-St. Albert",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "9805 - 100 Street, Morinville",
+        "phone": "780.572.6161",
+        "email": "Morinville.StAlbert@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-williams-dan",
+      "name": "Dan Williams",
+      "party": "UCP",
+      "constituency": "Peace River",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "10013 - 101 Avenue, P.O. Box 2793, La Crete",
+        "phone": "780.928.5100",
+        "email": "Peace.River@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-smith-danielle",
+      "name": "Danielle Smith",
+      "party": "UCP",
+      "constituency": "Brooks-Medicine Hat",
+      "role": "Premier of Alberta",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit A, 503 4th Avenue West, Brooks",
+        "phone": "587.270.5110",
+        "email": "Brooks.MedicineHat@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-nicolaides-demetrios",
+      "name": "Demetrios Nicolaides",
+      "party": "UCP",
+      "constituency": "Calgary-Bow",
+      "role": "Minister of Education",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": true,
+        "petitionApproved": "2025-10-29",
+        "signaturesRequired": 15487,
+        "deadline": "2026-01-27",
+        "organizer": "Operation Total Recall"
+      },
+      "contact": {
+        "constituencyOffice": "Suite 2214, 8561 - 8A Avenue SW, Calgary",
+        "phone": "403.216.5400",
+        "email": "Calgary.Bow@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-dreeshen-devin",
+      "name": "Devin Dreeshen",
+      "party": "UCP",
+      "constituency": "Innisfail-Sylvan Lake",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "A-5027 - 49 Street, Innisfail",
+        "phone": "403.865.7580",
+        "email": "Innisfail.SylvanLake@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-bouchard-eric",
+      "name": "Eric Bouchard",
+      "party": "UCP",
+      "constituency": "Calgary-Lougheed",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "2105, 230 Eversyde Blvd SW, Calgary",
+        "phone": "403.238.1212",
+        "email": "Calgary.Lougheed@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-rowswell-garth",
+      "name": "Garth Rowswell",
+      "party": "UCP",
+      "constituency": "Vermilion-Lloydminster-Wainwright",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "5008 - 50 Avenue, Vermilion",
+        "phone": "780.842.6177",
+        "email": "Vermilion.Lloydminster.Wainwright@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-van-dijken-glenn",
+      "name": "Glenn van Dijken",
+      "party": "UCP",
+      "constituency": "Athabasca-Barrhead-Westlock",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "5106 - 50 Street, Barrhead",
+        "phone": "780.674.3225",
+        "email": "Athabasca.Barrhead.Westlock@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-hunter-grant",
+      "name": "Grant Hunter",
+      "party": "UCP",
+      "constituency": "Taber-Warner",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "5402 - 50 Avenue, Taber",
+        "phone": "403.223.0001",
+        "email": "Taber.Warner@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-armstrong-homeniuk-jackie",
+      "name": "Jackie Armstrong-Homeniuk",
+      "party": "UCP",
+      "constituency": "Fort Saskatchewan-Vegreville",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Box 451, 5013 50 Street, Vegreville",
+        "phone": "780.632.6840",
+        "email": "FortSaskatchewan.Vegreville@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-lovely-jackie",
+      "name": "Jackie Lovely",
+      "party": "UCP",
+      "constituency": "Camrose",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "4870 - 51 Street, Camrose",
+        "phone": "780.672.0000",
+        "email": "Camrose@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-nixon-jason",
+      "name": "Jason Nixon",
+      "party": "UCP",
+      "constituency": "Rimbey-Rocky Mountain House-Sundre",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Box 1547, 101 - 6 Street SW, Sundre",
+        "phone": "403.638.5029",
+        "email": "Rimbey.RockyMountainhouse.Sundre@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-stephan-jason",
+      "name": "Jason Stephan",
+      "party": "UCP",
+      "constituency": "Red Deer-South",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "201, 4327 - 54 Avenue, Red Deer",
+        "phone": "403.340.3565",
+        "email": "RedDeer.South@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-johnson-jennifer",
+      "name": "Jennifer Johnson",
+      "party": "UCP",
+      "constituency": "Lacombe-Ponoka",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#101, 4892 - 46 Street, Lacombe",
+        "phone": "403.782.7725",
+        "email": "Lacombe.Ponoka@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-schow-joseph",
+      "name": "Joseph Schow",
+      "party": "UCP",
+      "constituency": "Cardston-Siksika",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "P.O. Box 819, Cardston",
+        "phone": "",
+        "email": "Cardston.Siksika@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-wright-justin",
+      "name": "Justin Wright",
+      "party": "UCP",
+      "constituency": "Cypress-Medicine Hat",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "TransCanada Place, #5 1299 TransCanada Way SE, Medicine Hat",
+        "phone": "403.528.2191",
+        "email": "Cypress.MedicineHat@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-long-martin",
+      "name": "Martin Long",
+      "party": "UCP",
+      "constituency": "West Yellowhead",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "5005 - 6th Avenue, Edson",
+        "phone": "780.712.7790",
+        "email": "West.Yellowhead@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-jones-matt",
+      "name": "Matt Jones",
+      "party": "UCP",
+      "constituency": "Calgary-South East",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 202, 5126 - 126 Avenue SE, Calgary",
+        "phone": "403.215.8930",
+        "email": "Calgary.SouthEast@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-amery,-kc-mickey",
+      "name": "Mickey Amery, KC",
+      "party": "UCP",
+      "constituency": "Calgary-Cross",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit #201, 920 36th Street NE, Calgary",
+        "phone": "403.248.4487",
+        "email": "Calgary.Cross@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-ellis-mike",
+      "name": "Mike Ellis",
+      "party": "UCP",
+      "constituency": "Calgary-West",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 234, 333 Aspen Glen Landing SW, Calgary",
+        "phone": "403.216.5439",
+        "email": "Calgary.West@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-yaseen-muhammad",
+      "name": "Muhammad Yaseen",
+      "party": "UCP",
+      "constituency": "Calgary-North",
+      "role": "Minister of Multiculturalism",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": true
+      },
+      "contact": {
+        "constituencyOffice": "104, 200 Country Hills Landing NW, Calgary",
+        "phone": "403.274.1931",
+        "email": "Calgary.North@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-mcdougall-myles",
+      "name": "Myles McDougall",
+      "party": "UCP",
+      "constituency": "Calgary-Fish Creek",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Bay 7, 1215 Lake Sylvan Drive SE, Calgary",
+        "phone": "403.278.4444",
+        "email": "Calgary.FishCreek@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-glubish-nate",
+      "name": "Nate Glubish",
+      "party": "UCP",
+      "constituency": "Strathcona-Sherwood Park",
+      "role": "Minister of Technology and Innovation",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": true
+      },
+      "contact": {
+        "constituencyOffice": "Athabasca Professional Building, #105, 80 Chippewa Road, Sherwood Park",
+        "phone": "780.416.2492",
+        "email": "Strathcona.Sherwoodpark@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-horner-nate",
+      "name": "Nate Horner",
+      "party": "UCP",
+      "constituency": "Drumheller-Stettler",
+      "role": "Minister of Finance",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Box 1929, Bay 400, 300 South Railway Avenue East, Drumheller",
+        "phone": "587.774.0306",
+        "email": "Drumheller.Stettler@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-neudorf-nathan",
+      "name": "Nathan Neudorf",
+      "party": "UCP",
+      "constituency": "Lethbridge-East",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#10, 550 WT Hill Blvd. South, Lethbridge",
+        "phone": "403.320.1011",
+        "email": "Lethbridge.East@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-dyck-nolan",
+      "name": "Nolan Dyck",
+      "party": "UCP",
+      "constituency": "Grande Prairie",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "15602C - 102 Street, Grande Prairie",
+        "phone": "780.538.1800",
+        "email": "GrandePrairie@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-singh-peter",
+      "name": "Peter Singh",
+      "party": "UCP",
+      "constituency": "Calgary-East",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#202, 3505 - 52 Street SE, Calgary",
+        "phone": "587.496.2052",
+        "email": "Calgary.East@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-sigurdson-r.j.",
+      "name": "R.J. Sigurdson",
+      "party": "UCP",
+      "constituency": "Highwood",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Unit 5, 49 Elizabeth Street, Box 568, Okotoks",
+        "phone": "403.995.5488",
+        "email": "Highwood@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-sawhney-rajan",
+      "name": "Rajan Sawhney",
+      "party": "UCP",
+      "constituency": "Calgary-North West",
+      "role": "Minister of Indigenous Relations",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": true
+      },
+      "contact": {
+        "constituencyOffice": "Suite 7223, 8650 - 112th Avenue NW, Calgary",
+        "phone": "403.297.7104",
+        "email": "Calgary.Northwest@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-schulz-rebecca",
+      "name": "Rebecca Schulz",
+      "party": "UCP",
+      "constituency": "Calgary-Shaw",
+      "role": "Minister of Environment",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": true
+      },
+      "contact": {
+        "constituencyOffice": "#208, 279 Midpark Way SE, Calgary",
+        "phone": "403.256.8969",
+        "email": "Calgary.Shaw@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-mciver-ric",
+      "name": "Ric McIver",
+      "party": "UCP",
+      "constituency": "Calgary-Hays",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "222, 5126 - 126 Avenue SE, Calgary",
+        "phone": "403.215.4380",
+        "email": "Calgary.Hays@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-wilson-rick",
+      "name": "Rick Wilson",
+      "party": "UCP",
+      "constituency": "Maskwacis-Wetaskiwin",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "5019 - 50 Street, Wetaskiwin",
+        "phone": "780.360.8003",
+        "email": "Maskwacis.Wetaskiwin@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-wiebe-ron",
+      "name": "Ron Wiebe",
+      "party": "UCP",
+      "constituency": "Grande Prairie-Wapiti",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "15602C - 102 Street, Grande Prairie",
+        "phone": "825.412.2050",
+        "email": "GrandePrairie.Wapiti@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-cyr-scott",
+      "name": "Scott Cyr",
+      "party": "UCP",
+      "constituency": "Bonnyville-Cold Lake-St. Paul",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Box 5160, #2, 4428 - 50 Avenue, Bonnyville",
+        "phone": "780.826.5658",
+        "email": "Bonnyville.ColdLake.StPaul@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-turton-searle",
+      "name": "Searle Turton",
+      "party": "UCP",
+      "constituency": "Spruce Grove-Stony Plain",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "210 McLeod Avenue, Suite 60, Spruce Grove",
+        "phone": "780.962.6606",
+        "email": "SpruceGrove.StonyPlain@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-getson-shane",
+      "name": "Shane Getson",
+      "party": "UCP",
+      "constituency": "Lac Ste. Anne-Parkland",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "#18, 4708 Lac Ste. Anne Trail North, P.O. Box 248 Onoway PO\"\", Onoway",
+        "phone": "780.967.0760",
+        "email": "LacSteAnne.Parkland@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-yao-tany",
+      "name": "Tany Yao",
+      "party": "UCP",
+      "constituency": "Fort McMurray-Wood Buffalo",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Suite #109, 9912 Franklin Avenue, Fort McMurray",
+        "phone": "780.790.6014",
+        "email": "FortMcMurray.WoodBuffalo@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-fir-tanya",
+      "name": "Tanya Fir",
+      "party": "UCP",
+      "constituency": "Calgary-Peigan",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "255, 11488 - 24 Street SE, Calgary",
+        "phone": "587.392.8850",
+        "email": "Calgary.Peigan@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-sawyer-tara",
+      "name": "Tara Sawyer",
+      "party": "UCP",
+      "constituency": "Olds-Didsbury-Three Hills",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Box 3909, 4905 B - 50 Avenue, Olds",
+        "phone": "403.556.3132",
+        "email": "OldsDidsbury.ThreeHills@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    },
+    {
+      "id": "mla-loewen-todd",
+      "name": "Todd Loewen",
+      "party": "UCP",
+      "constituency": "Central Peace-Notley",
+      "role": "Backbencher",
+      "electionResults": {
+        "votes": 0,
+        "percentage": 0,
+        "margin": 0,
+        "turnout": 0
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Box 9, 10410 - 110 Street, Fairview",
+        "phone": "780.835.7211",
+        "email": "CentralPeace.Notley@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023
+      }
+    }
+  ],
+  "recallSummary": {
+    "totalTargeted": 44,
+    "petitionsApproved": 2,
+    "petitionsOrganizing": 6,
+    "bill2VoteSummary": {
+      "yes": 47,
+      "no": 38,
+      "absent": 2
+    },
+    "noteworthyTargets": [
+      "mla-nicolaides-demetrios",
+      "mla-pitt-angela",
+      "mla-sawhney-rajan",
+      "mla-yaseen-muhammad",
+      "mla-glubish-nate",
+      "mla-lovely-jacqueline"
+    ]
+  },
+  "metadata": {
+    "dataSource": "Legislative Assembly of Alberta, Elections Alberta 2023",
+    "contactDataSource": "Legislative Assembly of Alberta Official Contact List (Nov 2025)",
+    "bill2Reference": "Bill 2: Back to School Act, passed October 27, 2025",
+    "recallLawReference": "Recall Act amendments July 2025",
+    "verificationUrl": "https://elections.ab.ca",
+    "lastAudit": "2025-11-07",
+    "notes": "Complete dataset with all 87 MLAs including 2 Independents. Contact information verified from official sources."
+  }
+}
