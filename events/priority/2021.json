@@ -27,4 +27,12 @@
         "rightsImpact": {
           "otherRights": ["Educational quality", "Indigenous reconciliation"],
           "scope": "systemic",
-          "reversibility
+                "reversibility": "Difficult - requires new legislation",
+      "legalChallenges": [],
+      "sources": [
+        {"url": "https://...", "title": "Source title", "date": "2021-XX-XX"}
+      ]
+    }
+  ]
+}
+
