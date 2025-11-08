@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "generated": "2025-11-08T16:35:06.921690",
+    "version": "1.1.0-FIXED",
+    "total_outlets": 12,
+    "note": "Foreign sources commonly consumed by Canadians",
+    "changelog": "v1.1.0 - Added canadianOwnershipPercent: 0 for all foreign outlets"
+  },
+  "outlets": [
+    {
+      "id": "media-fox-news",
+      "name": "Fox News",
+      "legalName": "Fox News Network, LLC",
+      "operatingName": "Fox News",
+      "type": "broadcast",
+      "legitimacy": "foreign",
+      "ownership": "Fox Corporation (USA)",
+      "parentCompany": "Fox Corporation",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "conservative",
+      "location": {
+        "country": "USA",
+        "city": "New York"
+      },
+      "founded": 1996,
+      "website": "https://foxnews.com"
+    },
+    {
+      "id": "media-cnn",
+      "name": "CNN",
+      "legalName": "Cable News Network, Inc.",
+      "operatingName": "CNN",
+      "type": "broadcast",
+      "legitimacy": "foreign",
+      "ownership": "Warner Bros. Discovery (USA)",
+      "parentCompany": "Warner Bros. Discovery",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "progressive",
+      "location": {
+        "country": "USA",
+        "city": "Atlanta"
+      },
+      "founded": 1980,
+      "website": "https://cnn.com"
+    },
+    {
+      "id": "media-bbc",
+      "name": "BBC News",
+      "legalName": "British Broadcasting Corporation",
+      "operatingName": "BBC News",
+      "type": "broadcast",
+      "legitimacy": "foreign",
+      "ownership": "UK Government",
+      "parentCompany": "British Broadcasting Corporation",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "neutral",
+      "location": {
+        "country": "UK",
+        "city": "London"
+      },
+      "founded": 1922,
+      "website": "https://bbc.com/news"
+    },
+    {
+      "id": "media-nyt",
+      "name": "New York Times",
+      "legalName": "The New York Times Company",
+      "operatingName": "New York Times",
+      "type": "newspaper",
+      "legitimacy": "foreign",
+      "ownership": "The New York Times Company (USA)",
+      "parentCompany": "The New York Times Company",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "progressive",
+      "location": {
+        "country": "USA",
+        "city": "New York"
+      },
+      "founded": 1851,
+      "website": "https://nytimes.com"
+    },
+    {
+      "id": "media-wsj",
+      "name": "Wall Street Journal",
+      "legalName": "Dow Jones & Company",
+      "operatingName": "Wall Street Journal",
+      "type": "newspaper",
+      "legitimacy": "foreign",
+      "ownership": "News Corp (USA)",
+      "parentCompany": "News Corp",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "conservative",
+      "location": {
+        "country": "USA",
+        "city": "New York"
+      },
+      "founded": 1889,
+      "website": "https://wsj.com"
+    },
+    {
+      "id": "media-guardian",
+      "name": "The Guardian",
+      "legalName": "Guardian Media Group",
+      "operatingName": "The Guardian",
+      "type": "newspaper",
+      "legitimacy": "foreign",
+      "ownership": "Scott Trust Limited (UK)",
+      "parentCompany": "Guardian Media Group",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "progressive",
+      "location": {
+        "country": "UK",
+        "city": "London"
+      },
+      "founded": 1821,
+      "website": "https://theguardian.com"
+    },
+    {
+      "id": "media-breitbart",
+      "name": "Breitbart News",
+      "legalName": "Breitbart News Network",
+      "operatingName": "Breitbart",
+      "type": "digital",
+      "legitimacy": "foreign",
+      "ownership": "Breitbart News Network (USA)",
+      "parentCompany": "Breitbart News Network",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "conservative",
+      "location": {
+        "country": "USA",
+        "city": "Los Angeles"
+      },
+      "founded": 2007,
+      "website": "https://breitbart.com"
+    },
+    {
+      "id": "media-reuters",
+      "name": "Reuters",
+      "legalName": "Thomson Reuters Corporation",
+      "operatingName": "Reuters",
+      "type": "news-wire",
+      "legitimacy": "foreign",
+      "ownership": "Thomson Reuters (Canada/USA)",
+      "parentCompany": "Thomson Reuters",
+      "canadianOwnershipPercent": 50,
+      "canadianContent": 25,
+      "foreignOwned": false,
+      "qcjoStatus": false,
+      "politicalLean": "neutral",
+      "location": {
+        "country": "UK",
+        "city": "London"
+      },
+      "founded": 1851,
+      "website": "https://reuters.com"
+    },
+    {
+      "id": "media-ap",
+      "name": "Associated Press",
+      "legalName": "The Associated Press",
+      "operatingName": "AP",
+      "type": "news-wire",
+      "legitimacy": "foreign",
+      "ownership": "Non-profit cooperative (USA)",
+      "parentCompany": "Associated Press",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "neutral",
+      "location": {
+        "country": "USA",
+        "city": "New York"
+      },
+      "founded": 1846,
+      "website": "https://apnews.com"
+    },
+    {
+      "id": "media-msnbc",
+      "name": "MSNBC",
+      "legalName": "MSNBC",
+      "operatingName": "MSNBC",
+      "type": "broadcast",
+      "legitimacy": "foreign",
+      "ownership": "NBCUniversal (USA)",
+      "parentCompany": "NBCUniversal",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "progressive",
+      "location": {
+        "country": "USA",
+        "city": "New York"
+      },
+      "founded": 1996,
+      "website": "https://msnbc.com"
+    },
+    {
+      "id": "media-sky-news",
+      "name": "Sky News",
+      "legalName": "Sky News",
+      "operatingName": "Sky News",
+      "type": "broadcast",
+      "legitimacy": "foreign",
+      "ownership": "Sky Group (Comcast, USA)",
+      "parentCompany": "Comcast",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "neutral",
+      "location": {
+        "country": "UK",
+        "city": "London"
+      },
+      "founded": 1989,
+      "website": "https://news.sky.com"
+    },
+    {
+      "id": "media-al-jazeera",
+      "name": "Al Jazeera",
+      "legalName": "Al Jazeera Media Network",
+      "operatingName": "Al Jazeera",
+      "type": "broadcast",
+      "legitimacy": "foreign",
+      "ownership": "Qatar government",
+      "parentCompany": "Al Jazeera Media Network",
+      "canadianOwnershipPercent": 0,
+      "canadianContent": 0,
+      "foreignOwned": true,
+      "qcjoStatus": false,
+      "politicalLean": "neutral",
+      "location": {
+        "country": "Qatar",
+        "city": "Doha"
+      },
+      "founded": 1996,
+      "website": "https://aljazeera.com"
+    }
+  ]
+}
