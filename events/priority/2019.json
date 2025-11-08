@@ -18,8 +18,7 @@
             "outlet": "CBC News",
             "mediaOrgId": "media-cbc",
             "publishDate": "2019-05-13",
-            "accessed": "2025-11-07",
-            "title": "Alberta government suspends nurses' contract negotiations"
+            "accessed": "2025-11-07"
           }
         ],
         "actors": ["Jason Kenney", "Tyler Shandro", "United Nurses of Alberta"],
@@ -53,10 +52,7 @@
           "First major labor relations action by UCP",
           "Part of broader public sector restructuring strategy"
         ],
-        "connectedEvents": [
-          "ucp-healthcare-privatization-2023",
-          "ucp-bill-32-2020"
-        ],
+        "connectedEvents": ["ucp-healthcare-privatization-2023", "ucp-bill-32-2020"],
         "connectionType": ["sequential", "thematic"]
       },
       "metadata": {
@@ -73,11 +69,11 @@
       "ministry": "Treasury Board and Finance",
       "milestone": true,
       "details": {
-        "description": "The UCP government passed legislation to reduce Alberta's corporate tax rate from 12% to 8% over four years, the lowest in Canada. The tax cut was projected to cost $4.7 billion in foregone revenue by 2023.",
+        "description": "The UCP government passed legislation to reduce Alberta's corporate tax rate from 12% to 8% over four years. Projected to cost $4.7 billion in foregone revenue by 2023.",
         "sources": [
           {
-            "url": "https://www.theglobeandmail.com/canada/alberta/article-alberta-budget-2019-corporate-tax-cuts/",
-            "outlet": "The Globe and Mail",
+            "url": "https://edmontonjournal.com/news/politics/alberta-budget-2019-corporate-tax-cuts",
+            "outlet": "Edmonton Journal",
             "publishDate": "2019-06-27",
             "accessed": "2025-11-07"
           }
@@ -85,14 +81,15 @@
         "financialImpact": {
           "amount": 4700000000,
           "type": "tax-break",
-          "description": "Cumulative revenue loss 2019-2023"
+          "description": "Cumulative revenue loss 2019-2023",
+          "recipients": ["Corporations operating in Alberta"]
         },
         "actors": ["Jason Kenney", "Travis Toews"],
         "jurisdiction": "provincial"
       },
       "analysis": {
         "rightsImpact": {
-          "otherRights": ["Access to public services (indirect)"],
+          "otherRights": ["Access to public services (indirect impact)"],
           "scope": "systemic",
           "reversibility": "permanent"
         },
@@ -100,8 +97,53 @@
           "Largest corporate tax cut in Alberta history",
           "No job creation requirements attached"
         ],
-        "connectedEvents": ["ucp-education-funding-cuts-2020"],
+        "connectedEvents": ["ucp-education-funding-cuts-2020", "ucp-healthcare-cuts-2020"],
         "connectionType": ["financial", "causal"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    },
+    {
+      "id": "ucp-youth-minimum-wage-2019",
+      "type": "priority",
+      "date": "2019-06-26",
+      "title": "Youth Minimum Wage Reduced to $13/hour",
+      "category": ["labor", "finance"],
+      "ministry": "Labour and Immigration",
+      "details": {
+        "description": "The UCP reinstated a lower minimum wage for youth workers under 18, setting it at $13/hour compared to the general $15/hour. This reversed the previous NDP policy.",
+        "sources": [
+          {
+            "url": "https://edmontonjournal.com/news/politics/alberta-budget-2019-youth-minimum-wage",
+            "outlet": "Edmonton Journal",
+            "publishDate": "2019-06-26",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "financialImpact": {
+          "amount": -2,
+          "type": "cut",
+          "description": "$2/hour wage reduction for workers under 18"
+        },
+        "actors": ["Jason Kenney", "Jason Copping"],
+        "jurisdiction": "provincial"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "otherRights": ["Fair wage", "Economic equality"],
+          "scope": "group",
+          "reversibility": "temporary"
+        },
+        "theoreticalFrameworks": {
+          "foucault": {
+            "biopolitics": "Creation of differentiated labor class based on age demonstrates biopolitical governance—managing population segments differently."
+          }
+        },
+        "patterns": ["Reversal of NDP labor policies", "Disproportionate impact on young workers"],
+        "connectedEvents": ["ucp-bill-32-2020"],
+        "connectionType": ["sequential", "thematic"]
       },
       "metadata": {
         "addedDate": "2025-11-07",
