@@ -3,57 +3,37 @@
   "events": [
     {
       "id": "ucp-bill-2-notwithstanding-2025",
-      "type": "priority",
       "date": "2025-05-10",
       "title": "Alberta Invokes Notwithstanding Clause in Bill 2 to End Teachers Strike",
-      "category": ["rights", "governance", "labor", "education"],
+      "description": "The Alberta government passed Bill 2 (Back to School Act) using the notwithstanding clause to override Charter protections and legislate teachers back to work. The bill imposes a four-year contract on 51,000 striking teachers and restricts the ability to take future strike action.",
+      "category": "rights",
       "ministry": "Education",
-      "milestone": true,
-      "details": {
-        "description": "The Alberta government passed Bill 2 (Back to School Act) using the notwithstanding clause to override Charter protections and legislate teachers back to work. The bill imposes a four-year contract on 51,000 striking teachers and restricts the ability to take future strike action.",
-        "impact": [
-          "Major Alberta Teachers Association protest",
-          "National constitutional debate over Section 33 usage"
-        ],
-        "reversibility": "Would require repeal/amendment by legislature or federal court challenge."
-      },
-      "legalChallenges": [
-        {
-          "party": "ATA + CCLA",
-          "status": "pending",
-          "description": "Joint court challenge regarding freedom of association and Section 2(d)"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-notwithstanding-teachers-strike-2025-1.1234567",
-          "title": "Alberta government uses notwithstanding clause to end teachers strike"
-        }
-      ]
+      "source_url": "https://www.cbc.ca/news/canada/edmonton/alberta-notwithstanding-teachers-strike-2025-1.1234567",
+      "impact_level": "high",
+      "analysis": {
+        "patterns": "Major Alberta Teachers Association protest • National constitutional debate over Section 33 usage",
+        "charterRights": [
+          {
+            "section": "Section 2(d)",
+            "impactType": "violated",
+            "justification": "Government invoked notwithstanding clause to override freedom of association rights",
+            "courtChallengeStatus": "pending"
+          }
+        ]
+      }
     },
     {
       "id": "alberta-recall-act-amendment-2025",
-      "type": "priority",
       "date": "2025-02-18",
       "title": "Recall Act Amended: Threshold Lowered from 40% to 25%",
-      "category": ["governance", "democracy"],
+      "description": "The UCP government amended Alberta’s Recall Act to lower the petition threshold from 40% to 25% of eligible voters needed to trigger an MLA recall vote. Allows recall petitions as soon as one year after an election, rather than 18 months.",
+      "category": "governance",
       "ministry": "Justice",
-      "milestone": true,
-      "details": {
-        "description": "The UCP government amended Alberta’s Recall Act to lower the petition threshold from 40% to 25% of eligible voters needed to trigger an MLA recall vote. Allows recall petitions as soon as one year after an election, rather than 18 months.",
-        "impact": [
-          "First recall petitions filed within weeks under new threshold",
-          "Concerns raised by MLAs about political stability"
-        ],
-        "reversibility": "Can be changed by simple majority in the legislature."
-      },
-      "legalChallenges": [],
-      "sources": [
-        {
-          "url": "https://edmontonjournal.com/news/politics/alberta-recall-act-amendment-2025",
-          "title": "Alberta lowers threshold for recall petitions"
-        }
-      ]
+      "source_url": "https://edmontonjournal.com/news/politics/alberta-recall-act-amendment-2025",
+      "impact_level": "high",
+      "analysis": {
+        "patterns": "First recall petitions filed within weeks under new threshold • Concerns raised by MLAs about political stability"
+      }
     }
   ]
 }
