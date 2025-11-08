@@ -1,226 +1,218 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2865
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 \{\
-  "year": 2023,\
-  "events": [\
-    \{\
-      "id": "ucp-sovereignty-act-2022",\
-      "type": "priority",\
-      "date": "2022-12-08",\
-      "title": "Alberta Sovereignty Within a United Canada Act Passed",\
-      "category": ["governance", "rights"],\
-      "ministry": "Executive Council",\
-      "milestone": true,\
-      "details": \{\
-        "description": "The Sovereignty Act grants Alberta government power to direct provincial entities to ignore federal laws deemed unconstitutional or harmful to Alberta. Constitutional scholars raised concerns about rule of law and federal-provincial relations.",\
-        "quote": "This act is a constitutional shield to protect Albertans from federal overreach.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/calgary/alberta-sovereignty-act-passes-1.6677742",\
-            "outlet": "CBC News",\
-            "publishDate": "2022-12-08",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "actors": ["Danielle Smith", "Alberta Legislature"],\
-        "jurisdiction": "provincial"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "otherRights": ["Constitutional order", "Rule of law", "Federal system"],\
-          "legalJustification": "Smith argues federal government repeatedly oversteps jurisdiction into provincial matters",\
-          "scope": "systemic",\
-          "reversibility": "unclear"\
-        \},\
-        "theoreticalFrameworks": \{\
-          "arendt": \{\
-            "totalitarianMarkers": "Law as instrument of executive will rather than constitutional principle. Arendt identified subordination of law to political objectives as totalitarian marker.",\
-            "violence": "Structural violence through assertion of right to ignore federal law\'97undermines constitutional order without physical coercion."\
-          \},\
-          "foucault": \{\
-            "governmentalityAspect": "Sovereignty Act redefines governmental relationships\'97province asserts autonomy while remaining within confederation. Creates liminal governance space.",\
-            "disciplinaryPower": "Act disciplines federal power through provincial resistance, but also disciplines provincial entities to government will."\
-          \}\
-        \},\
-        "patterns": [\
-          "Constitutional confrontation with federal government",\
-          "Erosion of cooperative federalism",\
-          "Polarization of Alberta-Ottawa relations"\
-        ],\
-        "connectedEvents": ["ucp-danielle-smith-election-2022"],\
-        "connectionType": ["sequential", "causal"]\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07"\
-      \}\
-    \},\
-    \{\
-      "id": "ucp-renewable-energy-moratorium-2023",\
-      "type": "priority",\
-      "date": "2023-08-03",\
-      "title": "7-Month Moratorium on Renewable Energy Projects",\
-      "category": ["environment", "energy", "finance"],\
-      "ministry": "Energy",\
-      "milestone": true,\
-      "details": \{\
-        "description": "The UCP imposed a 7-month moratorium on approvals for new renewable energy projects over 1MW, citing concerns about agricultural land use and grid reliability. Industry estimated $33 billion in investment threatened. Moratorium partially lifted February 2024 with new restrictions.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/calgary/renewable-energy-pause-alberta-1.6924996",\
-            "outlet": "CBC News",\
-            "publishDate": "2023-08-03",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "financialImpact": \{\
-          "amount": 33000000000,\
-          "type": "expenditure",\
-          "description": "Estimated renewable energy investment at risk"\
-        \},\
-        "actors": ["Danielle Smith", "Nathan Neudorf"],\
-        "organizations": ["Canadian Renewable Energy Association"],\
-        "jurisdiction": "provincial"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "otherRights": ["Environmental sustainability", "Economic investment"],\
-          "scope": "systemic",\
-          "reversibility": "temporary"\
-        \},\
-        "theoreticalFrameworks": \{\
-          "foucault": \{\
-            "biopolitics": "Energy policy as population-level governance\'97determining acceptable energy sources shapes societal structure. Moratorium on renewables is biopolitical choice about future collective life."\
-          \},\
-          "mcluhan": \{\
-            "mediumAnalysis": "Moratorium announced abruptly without consultation\'97medium of surprise regulatory change signals government priority. Process communicates more than stated rationale.",\
-            "messageVsMedium": "Message: Protecting agriculture. Medium: Sudden industry halt. McLuhan would note medium reveals fossil fuel prioritization."\
-          \}\
-        \},\
-        "patterns": [\
-          "Fossil fuel industry favoritism",\
-          "Renewable energy sector undermined",\
-          "Global investment reputation damaged"\
-        ],\
-        "connectedEvents": ["ucp-coal-mining-policy-2021"],\
-        "connectionType": ["thematic"]\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07"\
-      \}\
-    \},\
-    \{\
-      "id": "ucp-notwithstanding-clause-2025",\
-      "type": "priority",\
-      "date": "2025-10-27",\
-      "title": "Alberta Invokes Notwithstanding Clause Against Court Ruling",\
-      "category": ["rights", "governance", "labor"],\
-      "ministry": "Executive Council",\
-      "milestone": true,\
-      "details": \{\
-        "description": "The Alberta government invoked Section 33 of the Charter (notwithstanding clause) to override a court decision protecting collective bargaining rights, allowing the province to impose contract terms. This marks a significant escalation in the use of the override clause.",\
-        "quote": "We will not allow judicial activism to prevent us from governing in the best interests of Albertans.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/calgary/alberta-notwithstanding-clause-1.7362849",\
-            "outlet": "CBC News",\
-            "publishDate": "2025-10-27",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "actors": ["Danielle Smith", "Alberta Federation of Labour"],\
-        "organizations": ["Alberta Federation of Labour", "United Nurses of Alberta"],\
-        "jurisdiction": "provincial"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "charterRights": [\
-            \{\
-              "section": "Section 2(d) - Freedom of Association",\
-              "description": "Constitutional protection for collective bargaining",\
-              "impactType": "violated",\
-              "governmentJustification": "Government claims essential public services require immediate resolution beyond court timelines",\
-              "courtChallenge": \{\
-                "plaintiff": "Alberta Federation of Labour",\
-                "status": "filed",\
-                "ruling": "Constitutional challenge pending"\
-              \}\
-            \}\
-          ],\
-          "legalJustification": "Premier Smith stated the notwithstanding clause is necessary to ensure government can deliver services without judicial interference",\
-          "scope": "group",\
-          "reversibility": "temporary"\
-        \},\
-        "theoreticalFrameworks": \{\
-          "arendt": \{\
-            "totalitarianMarkers": "Overriding judicial review represents consolidation of power in executive. Arendt identified elimination of institutional checks as totalitarian precursor. While legal under Section 33, pattern of use matters.",\
-            "violence": "Legal violence through constitutional mechanism. Removes judicial protection from vulnerable groups (workers). Arendt would classify as institutional coercion.",\
-            "publicPrivateErosion": "Labor relations (private workplace matters) transformed into emergency government action requiring constitutional override\'97collapses distinction between private negotiations and state power."\
-          \},\
-          "foucault": \{\
-            "governmentalityAspect": "Notwithstanding clause as ultimate 'conduct of conduct'\'97state reshapes legal framework to enforce compliance. Government determines which rights are negotiable.",\
-            "disciplinaryPower": "Workers disciplined not through negotiation but through removal of constitutional protection. Power operates through legal subtraction rather than physical coercion."\
-          \},\
-          "eco": \{\
-            "urfascismMarkers": [\
-              "Contempt for the Weak - Workers portrayed as privileged special interests",\
-              "Disagreement is Treason - Union opposition framed as harming public",\
-              "Cult of Action for Action's Sake - Immediate override without exhausting other options",\
-              "Selective Populism - 'Albertans' invoked as unified bloc supporting override"\
-            ]\
-          \},\
-          "mcluhan": \{\
-            "mediumAnalysis": "Announcement made via press conference, not Legislature. Medium (executive pronouncement) bypasses deliberative process. Emergency framing (medium) shapes perception more than content.",\
-            "messageVsMedium": "Message: Protecting public services. Medium: Constitutional override announced unilaterally. McLuhan principle: The medium (how power is exercised) is the message (government priorities)."\
-          \}\
-        \},\
-        "patterns": [\
-          "Escalation of executive power",\
-          "Constitutional norms eroded",\
-          "Labor rights systematically undermined"\
-        ],\
-        "connectedEvents": [\
-          "ucp-nurses-wage-freeze-2019",\
-          "ucp-bill-32-2020",\
-          "ucp-sovereignty-act-2022"\
-        ],\
-        "connectionType": ["sequential", "thematic", "causal"],\
-        "sayDoComparison": \{\
-          "said": \{\
-            "quote": "We respect the rule of law and the independence of our judiciary.",\
-            "date": "2023-06-15",\
-            "source": "UCP campaign promise",\
-            "context": "Campaign pledge during 2023 election"\
-          \},\
-          "did": \{\
-            "action": "Invoked notwithstanding clause to override court decision protecting labor rights",\
-            "date": "2025-10-27",\
-            "source": "https://www.cbc.ca/news/canada/calgary/alberta-notwithstanding-clause-1.7362849",\
-            "contradiction": "Campaign promise to respect judicial independence contradicted by constitutional override to nullify court ruling"\
-          \}\
-        \}\
-      \},\
-      "notwithstandingDetails": \{\
-        "invokedSections": ["Section 2(d)"],\
-        "affectedRights": [\
-          \{\
-            "section": "Section 2(d) - Freedom of Association",\
-            "description": "Right to form unions and engage in collective bargaining",\
-            "impactType": "violated",\
-            "governmentJustification": "Essential services require certainty that courts cannot provide in timely manner"\
-          \}\
-        ],\
-        "governmentJustification": \{\
-          "statedReason": "Public services disruption intolerable; court timelines too slow",\
-          "legalMemo": "https://alberta.ca/notwithstanding-justification-memo-2025.pdf",\
-          "politicalFraming": "Protecting families and essential services from union demands"\
-        \},\
-        "opposition": \{\
-          "legalChallenges":\
-}
+{
+  "year": 2023,
+  "events": [
+    {
+      "id": "ucp-sovereignty-act-2022",
+      "type": "priority",
+      "date": "2022-12-08",
+      "title": "Alberta Sovereignty Within a United Canada Act Passed",
+      "category": ["governance", "rights"],
+      "ministry": "Executive Council",
+      "milestone": true,
+      "details": {
+        "description": "The Sovereignty Act grants Alberta government power to direct provincial entities to ignore federal laws deemed unconstitutional or harmful to Alberta. Constitutional scholars raised concerns about rule of law and federal-provincial relations.",
+        "quote": "This act is a constitutional shield to protect Albertans from federal overreach.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/calgary/alberta-sovereignty-act-passes-1.6677742",
+            "outlet": "CBC News",
+            "publishDate": "2022-12-08",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "actors": ["Danielle Smith", "Alberta Legislature"],
+        "jurisdiction": "provincial"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "otherRights": ["Constitutional order", "Rule of law", "Federal system"],
+          "legalJustification": "Smith argues federal government repeatedly oversteps jurisdiction into provincial matters",
+          "scope": "systemic",
+          "reversibility": "unclear"
+        },
+        "theoreticalFrameworks": {
+          "arendt": {
+            "totalitarianMarkers": "Law as instrument of executive will rather than constitutional principle. Arendt identified subordination of law to political objectives as totalitarian marker.",
+            "violence": "Structural violence through assertion of right to ignore federal law—undermines constitutional order without physical coercion."
+          },
+          "foucault": {
+            "governmentalityAspect": "Sovereignty Act redefines governmental relationships—province asserts autonomy while remaining within confederation. Creates liminal governance space.",
+            "disciplinaryPower": "Act disciplines federal power through provincial resistance, but also disciplines provincial entities to government will."
+          }
+        },
+        "patterns": [
+          "Constitutional confrontation with federal government",
+          "Erosion of cooperative federalism",
+          "Polarization of Alberta-Ottawa relations"
+        ],
+        "connectedEvents": ["ucp-danielle-smith-election-2022"],
+        "connectionType": ["sequential", "causal"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    },
+    {
+      "id": "ucp-renewable-energy-moratorium-2023",
+      "type": "priority",
+      "date": "2023-08-03",
+      "title": "7-Month Moratorium on Renewable Energy Projects",
+      "category": ["environment", "energy", "finance"],
+      "ministry": "Energy",
+      "milestone": true,
+      "details": {
+        "description": "The UCP imposed a 7-month moratorium on approvals for new renewable energy projects over 1MW, citing concerns about agricultural land use and grid reliability. Industry estimated $33 billion in investment threatened. Moratorium partially lifted February 2024 with new restrictions.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/calgary/renewable-energy-pause-alberta-1.6924996",
+            "outlet": "CBC News",
+            "publishDate": "2023-08-03",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "financialImpact": {
+          "amount": 33000000000,
+          "type": "expenditure",
+          "description": "Estimated renewable energy investment at risk"
+        },
+        "actors": ["Danielle Smith", "Nathan Neudorf"],
+        "organizations": ["Canadian Renewable Energy Association"],
+        "jurisdiction": "provincial"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "otherRights": ["Environmental sustainability", "Economic investment"],
+          "scope": "systemic",
+          "reversibility": "temporary"
+        },
+        "theoreticalFrameworks": {
+          "foucault": {
+            "biopolitics": "Energy policy as population-level governance—determining acceptable energy sources shapes societal structure. Moratorium on renewables is biopolitical choice about future collective life."
+          },
+          "mcluhan": {
+            "mediumAnalysis": "Moratorium announced abruptly without consultation—medium of surprise regulatory change signals government priority. Process communicates more than stated rationale.",
+            "messageVsMedium": "Message: Protecting agriculture. Medium: Sudden industry halt. McLuhan would note medium reveals fossil fuel prioritization."
+          }
+        },
+        "patterns": [
+          "Fossil fuel industry favoritism",
+          "Renewable energy sector undermined",
+          "Global investment reputation damaged"
+        ],
+        "connectedEvents": ["ucp-coal-mining-policy-2021"],
+        "connectionType": ["thematic"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    },
+    {
+      "id": "ucp-notwithstanding-clause-2025",
+      "type": "priority",
+      "date": "2025-10-27",
+      "title": "Alberta Invokes Notwithstanding Clause Against Court Ruling",
+      "category": ["rights", "governance", "labor"],
+      "ministry": "Executive Council",
+      "milestone": true,
+      "details": {
+        "description": "The Alberta government invoked Section 33 of the Charter (notwithstanding clause) to override a court decision protecting collective bargaining rights, allowing the province to impose contract terms. This marks a significant escalation in the use of the override clause.",
+        "quote": "We will not allow judicial activism to prevent us from governing in the best interests of Albertans.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/calgary/alberta-notwithstanding-clause-1.7362849",
+            "outlet": "CBC News",
+            "publishDate": "2025-10-27",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "actors": ["Danielle Smith", "Alberta Federation of Labour"],
+        "organizations": ["Alberta Federation of Labour", "United Nurses of Alberta"],
+        "jurisdiction": "provincial"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "charterRights": [
+            {
+              "section": "Section 2(d) - Freedom of Association",
+              "description": "Constitutional protection for collective bargaining",
+              "impactType": "violated",
+              "governmentJustification": "Government claims essential public services require immediate resolution beyond court timelines",
+              "courtChallenge": {
+                "plaintiff": "Alberta Federation of Labour",
+                "status": "filed",
+                "ruling": "Constitutional challenge pending"
+              }
+            }
+          ],
+          "legalJustification": "Premier Smith stated the notwithstanding clause is necessary to ensure government can deliver services without judicial interference",
+          "scope": "group",
+          "reversibility": "temporary"
+        },
+        "theoreticalFrameworks": {
+          "arendt": {
+            "totalitarianMarkers": "Overriding judicial review represents consolidation of power in executive. Arendt identified elimination of institutional checks as totalitarian precursor. While legal under Section 33, pattern of use matters.",
+            "violence": "Legal violence through constitutional mechanism. Removes judicial protection from vulnerable groups (workers). Arendt would classify as institutional coercion.",
+            "publicPrivateErosion": "Labor relations (private workplace matters) transformed into emergency government action requiring constitutional override—collapses distinction between private negotiations and state power."
+          },
+          "foucault": {
+            "governmentalityAspect": "Notwithstanding clause as ultimate 'conduct of conduct'—state reshapes legal framework to enforce compliance. Government determines which rights are negotiable.",
+            "disciplinaryPower": "Workers disciplined not through negotiation but through removal of constitutional protection. Power operates through legal subtraction rather than physical coercion."
+          },
+          "eco": {
+            "urfascismMarkers": [
+              "Contempt for the Weak - Workers portrayed as privileged special interests",
+              "Disagreement is Treason - Union opposition framed as harming public",
+              "Cult of Action for Action's Sake - Immediate override without exhausting other options",
+              "Selective Populism - 'Albertans' invoked as unified bloc supporting override"
+            ]
+          },
+          "mcluhan": {
+            "mediumAnalysis": "Announcement made via press conference, not Legislature. Medium (executive pronouncement) bypasses deliberative process. Emergency framing (medium) shapes perception more than content.",
+            "messageVsMedium": "Message: Protecting public services. Medium: Constitutional override announced unilaterally. McLuhan principle: The medium (how power is exercised) is the message (government priorities)."
+          }
+        },
+        "patterns": [
+          "Escalation of executive power",
+          "Constitutional norms eroded",
+          "Labor rights systematically undermined"
+        ],
+        "connectedEvents": [
+          "ucp-nurses-wage-freeze-2019",
+          "ucp-bill-32-2020",
+          "ucp-sovereignty-act-2022"
+        ],
+        "connectionType": ["sequential", "thematic", "causal"],
+        "sayDoComparison": {
+          "said": {
+            "quote": "We respect the rule of law and the independence of our judiciary.",
+            "date": "2023-06-15",
+            "source": "UCP campaign promise",
+            "context": "Campaign pledge during 2023 election"
+          },
+          "did": {
+            "action": "Invoked notwithstanding clause to override court decision protecting labor rights",
+            "date": "2025-10-27",
+            "source": "https://www.cbc.ca/news/canada/calgary/alberta-notwithstanding-clause-1.7362849",
+            "contradiction": "Campaign promise to respect judicial independence contradicted by constitutional override to nullify court ruling"
+          }
+        }
+      },
+      "notwithstandingDetails": {
+        "invokedSections": ["Section 2(d)"],
+        "affectedRights": [
+          {
+            "section": "Section 2(d) - Freedom of Association",
+            "description": "Right to form unions and engage in collective bargaining",
+            "impactType": "violated",
+            "governmentJustification": "Essential services require certainty that courts cannot provide in timely manner"
+          }
+        ],
+        "governmentJustification": {
+          "statedReason": "Public services disruption intolerable; court timelines too slow",
+          "legalMemo": "https://alberta.ca/notwithstanding-justification-memo-2025.pdf",
+          "politicalFraming": "Protecting families and essential services from union demands"
+        },
+        "opposition": {
+          "legalChallenges":

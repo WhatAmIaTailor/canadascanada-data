@@ -1,121 +1,113 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2865
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 \{\
-  "year": 2020,\
-  "events": [\
-    \{\
-      "id": "ucp-bill-32-2020",\
-      "type": "priority",\
-      "date": "2020-07-07",\
-      "title": "Bill 32: Restoring Balance in Alberta's Workplaces Act",\
-      "category": ["labor", "rights", "governance"],\
-      "ministry": "Labour and Immigration",\
-      "milestone": true,\
-      "details": \{\
-        "description": "Bill 32 significantly restricted union activities, including banning political contributions without explicit member consent, limiting picketing, and increasing employer access to union finances. Considered one of the most restrictive labor laws in Canada.",\
-        "quote": "This legislation restores balance and ensures workers have a democratic say in how their union dues are spent.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/calgary/bill-32-labour-relations-changes-1.5631706",\
-            "outlet": "CBC News",\
-            "publishDate": "2020-07-07",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "actors": ["Jason Kenney", "Jason Copping", "Alberta Federation of Labour"],\
-        "organizations": ["Alberta Federation of Labour", "United Nurses of Alberta"],\
-        "jurisdiction": "provincial"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "charterRights": [\
-            \{\
-              "section": "Section 2(d) - Freedom of Association",\
-              "description": "Protects union activities and collective bargaining",\
-              "impactType": "restricted",\
-              "governmentJustification": "Government claimed bill enhances worker democracy and transparency",\
-              "courtChallenge": \{\
-                "plaintiff": "Alberta Federation of Labour",\
-                "status": "pending",\
-                "ruling": "Constitutional challenge ongoing"\
-              \}\
-            \}\
-          ],\
-          "scope": "systemic",\
-          "reversibility": "temporary"\
-        \},\
-        "theoreticalFrameworks": \{\
-          "foucault": \{\
-            "governmentalityAspect": "Legislation redefines 'legitimate' union activity through state regulation. State determines acceptable forms of collective organization.",\
-            "disciplinaryPower": "Financial transparency requirements create surveillance mechanism over union operations."\
-          \},\
-          "arendt": \{\
-            "publicPrivateErosion": "State intervention into internal union democracy (political spending) blurs boundaries between organizational autonomy and state control."\
-          \}\
-        \},\
-        "patterns": [\
-          "Most comprehensive anti-union legislation in decades",\
-          "Part of broader assault on labor rights",\
-          "Legal challenges ongoing"\
-        ],\
-        "connectedEvents": ["ucp-nurses-wage-freeze-2019", "ucp-aupe-strike-2025"],\
-        "connectionType": ["sequential", "thematic", "causal"]\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07"\
-      \}\
-    \},\
-    \{\
-      "id": "ucp-education-funding-cuts-2020",\
-      "type": "priority",\
-      "date": "2020-02-27",\
-      "title": "Education Budget Cuts: $128M Reduction",\
-      "category": ["education", "finance"],\
-      "ministry": "Education",\
-      "details": \{\
-        "description": "Budget 2020 cut $128 million from K-12 education despite enrollment growth, resulting in larger class sizes and teacher layoffs.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/edmonton/alberta-budget-2020-education-1.5478829",\
-            "outlet": "CBC News",\
-            "publishDate": "2020-02-27",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "financialImpact": \{\
-          "amount": -128000000,\
-          "type": "cut",\
-          "description": "K-12 education budget reduction"\
-        \},\
-        "actors": ["Jason Kenney", "Adriana LaGrange"],\
-        "jurisdiction": "provincial",\
-        "policyOutcome": true,\
-        "catalyzingPolicy": "ucp-corporate-tax-cut-2019"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "otherRights": ["Right to education", "Educational equality"],\
-          "scope": "systemic",\
-          "reversibility": "unclear"\
-        \},\
-        "patterns": [\
-          "Cuts coincide with corporate tax reductions",\
-          "Enrollment growth ignored in funding decisions"\
-        ],\
-        "connectedEvents": ["ucp-corporate-tax-cut-2019"],\
-        "connectionType": ["financial", "causal"]\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07"\
-      \}\
-    \}\
-  ]\
-\}\
+{
+  "year": 2020,
+  "events": [
+    {
+      "id": "ucp-bill-32-2020",
+      "type": "priority",
+      "date": "2020-07-07",
+      "title": "Bill 32: Restoring Balance in Alberta's Workplaces Act",
+      "category": ["labor", "rights", "governance"],
+      "ministry": "Labour and Immigration",
+      "milestone": true,
+      "details": {
+        "description": "Bill 32 significantly restricted union activities, including banning political contributions without explicit member consent, limiting picketing, and increasing employer access to union finances. Considered one of the most restrictive labor laws in Canada.",
+        "quote": "This legislation restores balance and ensures workers have a democratic say in how their union dues are spent.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/calgary/bill-32-labour-relations-changes-1.5631706",
+            "outlet": "CBC News",
+            "publishDate": "2020-07-07",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "actors": ["Jason Kenney", "Jason Copping", "Alberta Federation of Labour"],
+        "organizations": ["Alberta Federation of Labour", "United Nurses of Alberta"],
+        "jurisdiction": "provincial"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "charterRights": [
+            {
+              "section": "Section 2(d) - Freedom of Association",
+              "description": "Protects union activities and collective bargaining",
+              "impactType": "restricted",
+              "governmentJustification": "Government claimed bill enhances worker democracy and transparency",
+              "courtChallenge": {
+                "plaintiff": "Alberta Federation of Labour",
+                "status": "pending",
+                "ruling": "Constitutional challenge ongoing"
+              }
+            }
+          ],
+          "scope": "systemic",
+          "reversibility": "temporary"
+        },
+        "theoreticalFrameworks": {
+          "foucault": {
+            "governmentalityAspect": "Legislation redefines 'legitimate' union activity through state regulation. State determines acceptable forms of collective organization.",
+            "disciplinaryPower": "Financial transparency requirements create surveillance mechanism over union operations."
+          },
+          "arendt": {
+            "publicPrivateErosion": "State intervention into internal union democracy (political spending) blurs boundaries between organizational autonomy and state control."
+          }
+        },
+        "patterns": [
+          "Most comprehensive anti-union legislation in decades",
+          "Part of broader assault on labor rights",
+          "Legal challenges ongoing"
+        ],
+        "connectedEvents": ["ucp-nurses-wage-freeze-2019", "ucp-aupe-strike-2025"],
+        "connectionType": ["sequential", "thematic", "causal"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    },
+    {
+      "id": "ucp-education-funding-cuts-2020",
+      "type": "priority",
+      "date": "2020-02-27",
+      "title": "Education Budget Cuts: $128M Reduction",
+      "category": ["education", "finance"],
+      "ministry": "Education",
+      "details": {
+        "description": "Budget 2020 cut $128 million from K-12 education despite enrollment growth, resulting in larger class sizes and teacher layoffs.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/edmonton/alberta-budget-2020-education-1.5478829",
+            "outlet": "CBC News",
+            "publishDate": "2020-02-27",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "financialImpact": {
+          "amount": -128000000,
+          "type": "cut",
+          "description": "K-12 education budget reduction"
+        },
+        "actors": ["Jason Kenney", "Adriana LaGrange"],
+        "jurisdiction": "provincial",
+        "policyOutcome": true,
+        "catalyzingPolicy": "ucp-corporate-tax-cut-2019"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "otherRights": ["Right to education", "Educational equality"],
+          "scope": "systemic",
+          "reversibility": "unclear"
+        },
+        "patterns": [
+          "Cuts coincide with corporate tax reductions",
+          "Enrollment growth ignored in funding decisions"
+        ],
+        "connectedEvents": ["ucp-corporate-tax-cut-2019"],
+        "connectionType": ["financial", "causal"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    }
+  ]
 }

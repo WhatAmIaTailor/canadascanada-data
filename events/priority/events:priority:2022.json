@@ -1,122 +1,114 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2865
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 \{\
-  "year": 2022,\
-  "events": [\
-    \{\
-      "id": "ucp-kenney-leadership-review-2022",\
-      "type": "priority",\
-      "date": "2022-05-18",\
-      "title": "Jason Kenney Loses Leadership Review, Resigns",\
-      "category": ["governance", "rights"],\
-      "ministry": "Executive Council",\
-      "milestone": true,\
-      "details": \{\
-        "description": "Jason Kenney received only 51.4% support in UCP leadership review, below the threshold he set for continuing. He announced resignation, triggering leadership race won by Danielle Smith. Take Back Alberta grassroots movement credited with organizing opposition.",\
-        "quote": "While 51% of the vote passes, I don't believe that is adequate support to continue as leader.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/calgary/jason-kenney-leadership-review-ucp-1.6457123",\
-            "outlet": "CBC News",\
-            "publishDate": "2022-05-18",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "actors": ["Jason Kenney", "Take Back Alberta", "David Parker"],\
-        "organizations": ["Take Back Alberta", "United Conservative Party"],\
-        "jurisdiction": "provincial"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "otherRights": ["Democratic participation", "Party democracy"],\
-          "scope": "group",\
-          "reversibility": "permanent"\
-        \},\
-        "theoreticalFrameworks": \{\
-          "arendt": \{\
-            "publicPrivateErosion": "Grassroots takeover of party machinery blurs distinction between institutional politics and populist movement. Arendt would recognize shift from representative to direct action models.",\
-            "totalitarianMarkers": "Organized purging of moderate voices from party structures. While democratic in form, process eliminates internal pluralism."\
-          \},\
-          "eco": \{\
-            "urfascismMarkers": [\
-              "Disagreement is Treason - Kenney framed as insufficiently conservative",\
-              "Selective Populism - Take Back Alberta claims to represent 'real' conservatives",\
-              "Cult of Tradition - Return to 'true' conservative values rhetoric"\
-            ]\
-          \}\
-        \},\
-        "patterns": [\
-          "Grassroots conservative organizing",\
-          "Party shifting further right",\
-          "Leadership instability"\
-        ],\
-        "connectedEvents": ["ucp-danielle-smith-election-2022", "ucp-take-back-alberta-influence-2022"],\
-        "connectionType": ["sequential", "causal"]\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07"\
-      \}\
-    \},\
-    \{\
-      "id": "ucp-danielle-smith-election-2022",\
-      "type": "priority",\
-      "date": "2022-10-06",\
-      "title": "Danielle Smith Elected UCP Leader",\
-      "category": ["governance"],\
-      "ministry": "Executive Council",\
-      "milestone": true,\
-      "details": \{\
-        "description": "Danielle Smith won UCP leadership race on sixth ballot, defeating Travis Toews. Smith, former Wildrose Party leader with libertarian views, campaigned on Alberta Sovereignty Act and opposing federal government.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-ucp-leader-alberta-1.6607511",\
-            "outlet": "CBC News",\
-            "publishDate": "2022-10-06",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "actors": ["Danielle Smith", "Travis Toews", "Take Back Alberta"],\
-        "organizations": ["Take Back Alberta", "United Conservative Party"],\
-        "jurisdiction": "provincial"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "otherRights": ["Federal-provincial relations", "Constitutional order"],\
-          "scope": "systemic",\
-          "reversibility": "unclear"\
-        \},\
-        "theoreticalFrameworks": \{\
-          "arendt": \{\
-            "totalitarianMarkers": "Campaign rhetoric positioning federal government as existential threat. Arendt identified external enemy construction as totalitarian precursor.",\
-            "publicPrivateErosion": "Smith's radio show history and media appearances blur boundaries between political office and media personality."\
-          \},\
-          "eco": \{\
-            "urfascismMarkers": [\
-              "Obsession with Plot - Federal government cast as conspiring against Alberta",\
-              "Life is Permanent Warfare - Sovereignty framed as defensive battle",\
-              "Contempt for the Weak - Ottawa portrayed as tyrannical yet ineffective"\
-            ]\
-          \}\
-        \},\
-        "patterns": [\
-          "Further rightward shift of UCP",\
-          "Anti-federal rhetoric intensifies",\
-          "Libertarian influence grows"\
-        ],\
-        "connectedEvents": ["ucp-sovereignty-act-2022", "ucp-liberty-fund-tattoo-2023"],\
-        "connectionType": ["sequential", "causal"]\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07"\
-      \}\
-    \}\
-  ]\
-\}\
+{
+  "year": 2022,
+  "events": [
+    {
+      "id": "ucp-kenney-leadership-review-2022",
+      "type": "priority",
+      "date": "2022-05-18",
+      "title": "Jason Kenney Loses Leadership Review, Resigns",
+      "category": ["governance", "rights"],
+      "ministry": "Executive Council",
+      "milestone": true,
+      "details": {
+        "description": "Jason Kenney received only 51.4% support in UCP leadership review, below the threshold he set for continuing. He announced resignation, triggering leadership race won by Danielle Smith. Take Back Alberta grassroots movement credited with organizing opposition.",
+        "quote": "While 51% of the vote passes, I don't believe that is adequate support to continue as leader.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/calgary/jason-kenney-leadership-review-ucp-1.6457123",
+            "outlet": "CBC News",
+            "publishDate": "2022-05-18",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "actors": ["Jason Kenney", "Take Back Alberta", "David Parker"],
+        "organizations": ["Take Back Alberta", "United Conservative Party"],
+        "jurisdiction": "provincial"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "otherRights": ["Democratic participation", "Party democracy"],
+          "scope": "group",
+          "reversibility": "permanent"
+        },
+        "theoreticalFrameworks": {
+          "arendt": {
+            "publicPrivateErosion": "Grassroots takeover of party machinery blurs distinction between institutional politics and populist movement. Arendt would recognize shift from representative to direct action models.",
+            "totalitarianMarkers": "Organized purging of moderate voices from party structures. While democratic in form, process eliminates internal pluralism."
+          },
+          "eco": {
+            "urfascismMarkers": [
+              "Disagreement is Treason - Kenney framed as insufficiently conservative",
+              "Selective Populism - Take Back Alberta claims to represent 'real' conservatives",
+              "Cult of Tradition - Return to 'true' conservative values rhetoric"
+            ]
+          }
+        },
+        "patterns": [
+          "Grassroots conservative organizing",
+          "Party shifting further right",
+          "Leadership instability"
+        ],
+        "connectedEvents": ["ucp-danielle-smith-election-2022", "ucp-take-back-alberta-influence-2022"],
+        "connectionType": ["sequential", "causal"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    },
+    {
+      "id": "ucp-danielle-smith-election-2022",
+      "type": "priority",
+      "date": "2022-10-06",
+      "title": "Danielle Smith Elected UCP Leader",
+      "category": ["governance"],
+      "ministry": "Executive Council",
+      "milestone": true,
+      "details": {
+        "description": "Danielle Smith won UCP leadership race on sixth ballot, defeating Travis Toews. Smith, former Wildrose Party leader with libertarian views, campaigned on Alberta Sovereignty Act and opposing federal government.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-ucp-leader-alberta-1.6607511",
+            "outlet": "CBC News",
+            "publishDate": "2022-10-06",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "actors": ["Danielle Smith", "Travis Toews", "Take Back Alberta"],
+        "organizations": ["Take Back Alberta", "United Conservative Party"],
+        "jurisdiction": "provincial"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "otherRights": ["Federal-provincial relations", "Constitutional order"],
+          "scope": "systemic",
+          "reversibility": "unclear"
+        },
+        "theoreticalFrameworks": {
+          "arendt": {
+            "totalitarianMarkers": "Campaign rhetoric positioning federal government as existential threat. Arendt identified external enemy construction as totalitarian precursor.",
+            "publicPrivateErosion": "Smith's radio show history and media appearances blur boundaries between political office and media personality."
+          },
+          "eco": {
+            "urfascismMarkers": [
+              "Obsession with Plot - Federal government cast as conspiring against Alberta",
+              "Life is Permanent Warfare - Sovereignty framed as defensive battle",
+              "Contempt for the Weak - Ottawa portrayed as tyrannical yet ineffective"
+            ]
+          }
+        },
+        "patterns": [
+          "Further rightward shift of UCP",
+          "Anti-federal rhetoric intensifies",
+          "Libertarian influence grows"
+        ],
+        "connectedEvents": ["ucp-sovereignty-act-2022", "ucp-liberty-fund-tattoo-2023"],
+        "connectionType": ["sequential", "causal"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    }
+  ]
 }

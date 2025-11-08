@@ -1,164 +1,156 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2865
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 \{\
-  "category": "UCP Municipal Interference",\
-  "events": [\
-    \{\
-      "id": "ucp-bike-lane-threats-2025",\
-      "type": "priority",\
-      "date": "2025-07-30",\
-      "title": "UCP Threatens to Remove Calgary/Edmonton Bike Lanes",\
-      "category": ["municipal-interference", "transportation", "governance"],\
-      "ministry": "Transportation",\
-      "details": \{\
-        "description": "Alberta Transportation Minister Devin Dreeshen threatened to use provincial authority to remove bike lanes in Calgary and Edmonton, citing traffic congestion concerns. This followed similar legislation in Ontario (Bill 212) that courts ruled unconstitutional.",\
-        "quote": "We're looking at what Ontario has done. If municipalities won't listen to drivers, we will.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/calgary/alberta-bike-lanes-provincial-authority-1.7274821",\
-            "outlet": "CBC News",\
-            "publishDate": "2025-07-30",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "actors": ["Devin Dreeshen", "Calgary City Council", "Edmonton City Council"],\
-        "jurisdiction": "mixed"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "otherRights": ["Municipal autonomy", "Urban planning authority"],\
-          "scope": "systemic",\
-          "reversibility": "unclear"\
-        \},\
-        "theoreticalFrameworks": \{\
-          "foucault": \{\
-            "governmentalityAspect": "Provincial government extends 'conduct of conduct' to municipal level. State determines acceptable urban form."\
-          \},\
-          "eco": \{\
-            "urfascismMarkers": [\
-              "Appeal to Frustrated Middle Class - 'Drivers' positioned as majority against cyclist minority",\
-              "Contempt for the Weak - Cyclists portrayed as privileged urban elite"\
-            ]\
-          \}\
-        \},\
-        "patterns": [\
-          "Provincial overreach into municipal jurisdiction",\
-          "Anti-urban planning stance",\
-          "Car-centric infrastructure prioritization"\
-        ],\
-        "connectedEvents": ["ucp-green-line-cancellation-2024"],\
-        "connectionType": ["thematic"]\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07"\
-      \}\
-    \},\
-    \{\
-      "id": "ucp-green-line-cancellation-2024",\
-      "type": "priority",\
-      "date": "2024-09-03",\
-      "title": "UCP Cancels Calgary Green Line LRT Project",\
-      "category": ["municipal-interference", "transportation", "finance"],\
-      "ministry": "Transportation",\
-      "milestone": true,\
-      "details": \{\
-        "description": "The Alberta government withdrew $1.53 billion in committed funding for Calgary's Green Line LRT, effectively killing the $2.1 billion project. The decision came after construction had begun and contracts were signed, forcing Calgary to pay cancellation penalties.",\
-        "sources": [\
-          \{\
-            "url": "https://www.cbc.ca/news/canada/calgary/green-line-alberta-funding-withdrawn-1.7311456",\
-            "outlet": "CBC News",\
-            "publishDate": "2024-09-03",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "financialImpact": \{\
-          "amount": -1530000000,\
-          "type": "cut",\
-          "description": "Provincial funding withdrawn from Green Line LRT"\
-        \},\
-        "actors": ["Danielle Smith", "Devin Dreeshen", "Calgary City Council"],\
-        "jurisdiction": "mixed"\
-      \},\
-      "analysis": \{\
-        "rightsImpact": \{\
-          "otherRights": ["Public transportation access", "Environmental sustainability", "Municipal planning"],\
-          "scope": "systemic",\
-          "reversibility": "permanent"\
-        \},\
-        "theoreticalFrameworks": \{\
-          "foucault": \{\
-            "biopolitics": "Transit infrastructure shapes population movement and urban form. Cancellation is biopolitical decision about future city structure."\
-          \},\
-          "arendt": \{\
-            "violence": "Financial violence\'97destroying agreed-upon project mid-construction. Institutional power used to punish municipality."\
-          \}\
-        \},\
-        "patterns": [\
-          "Provincial punishment of Calgary (NDP-voting city)",\
-          "Anti-transit, pro-car infrastructure bias",\
-          "$2.1B investment destroyed"\
-        ],\
-        "connectedEvents": ["ucp-bike-lane-threats-2025"],\
-        "connectionType": ["thematic", "sequential"]\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07",\
-        "notes": "Demonstrates pattern of UCP hostility to urban centers and public transit"\
-      \}\
-    \},\
-    \{\
-      "id": "ucp-15-minute-city-opposition-2024",\
-      "type": "priority",\
-      "date": "2024-05-27",\
-      "title": "15-Minute City Conspiracy Derails Edmonton District Planning",\
-      "category": ["municipal-interference", "governance"],\
-      "details": \{\
-        "description": "Edmonton's district zoning plan faced intense opposition fueled by conspiracy theories about '15-minute cities' being government control mechanisms. While not direct UCP action, conservative groups aligned with UCP promoted these narratives, derailing evidence-based urban planning.",\
-        "sources": [\
-          \{\
-            "url": "https://edmonton.citynews.ca/2024/05/27/edmonton-15-minute-city-conspiracy/",\
-            "outlet": "CityNews Edmonton",\
-            "publishDate": "2024-05-27",\
-            "accessed": "2025-11-07"\
-          \}\
-        ],\
-        "actors": ["Edmonton City Council", "Conservative advocacy groups"],\
-        "jurisdiction": "municipal"\
-      \},\
-      "analysis": \{\
-        "theoreticalFrameworks": \{\
-          "eco": \{\
-            "urfascismMarkers": [\
-              "Obsession with Plot - 15-minute cities as government control conspiracy",\
-              "Irrationalism - Rejection of evidence-based planning",\
-              "Fear of Difference - Urban planning portrayed as foreign imposition"\
-            ]\
-          \},\
-          "mcluhan": \{\
-            "mediumAnalysis": "Conspiracy theories spread via social media (Facebook groups, YouTube). Medium (algorithm-driven outrage) shaped message more than planning facts."\
-          \}\
-        \},\
-        "patterns": [\
-          "Conspiracy theories influencing policy",\
-          "Rejection of expertise",\
-          "Social media-driven opposition"\
-        ],\
-        "connectedEvents": [],\
-        "connectionType": []\
-      \},\
-      "metadata": \{\
-        "addedDate": "2025-11-07",\
-        "lastUpdated": "2025-11-07",\
-        "notes": "Indirect UCP connection through aligned advocacy groups"\
-      \}\
-    \}\
-  ]\
-\}\
+{
+  "category": "UCP Municipal Interference",
+  "events": [
+    {
+      "id": "ucp-bike-lane-threats-2025",
+      "type": "priority",
+      "date": "2025-07-30",
+      "title": "UCP Threatens to Remove Calgary/Edmonton Bike Lanes",
+      "category": ["municipal-interference", "transportation", "governance"],
+      "ministry": "Transportation",
+      "details": {
+        "description": "Alberta Transportation Minister Devin Dreeshen threatened to use provincial authority to remove bike lanes in Calgary and Edmonton, citing traffic congestion concerns. This followed similar legislation in Ontario (Bill 212) that courts ruled unconstitutional.",
+        "quote": "We're looking at what Ontario has done. If municipalities won't listen to drivers, we will.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/calgary/alberta-bike-lanes-provincial-authority-1.7274821",
+            "outlet": "CBC News",
+            "publishDate": "2025-07-30",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "actors": ["Devin Dreeshen", "Calgary City Council", "Edmonton City Council"],
+        "jurisdiction": "mixed"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "otherRights": ["Municipal autonomy", "Urban planning authority"],
+          "scope": "systemic",
+          "reversibility": "unclear"
+        },
+        "theoreticalFrameworks": {
+          "foucault": {
+            "governmentalityAspect": "Provincial government extends 'conduct of conduct' to municipal level. State determines acceptable urban form."
+          },
+          "eco": {
+            "urfascismMarkers": [
+              "Appeal to Frustrated Middle Class - 'Drivers' positioned as majority against cyclist minority",
+              "Contempt for the Weak - Cyclists portrayed as privileged urban elite"
+            ]
+          }
+        },
+        "patterns": [
+          "Provincial overreach into municipal jurisdiction",
+          "Anti-urban planning stance",
+          "Car-centric infrastructure prioritization"
+        ],
+        "connectedEvents": ["ucp-green-line-cancellation-2024"],
+        "connectionType": ["thematic"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    },
+    {
+      "id": "ucp-green-line-cancellation-2024",
+      "type": "priority",
+      "date": "2024-09-03",
+      "title": "UCP Cancels Calgary Green Line LRT Project",
+      "category": ["municipal-interference", "transportation", "finance"],
+      "ministry": "Transportation",
+      "milestone": true,
+      "details": {
+        "description": "The Alberta government withdrew $1.53 billion in committed funding for Calgary's Green Line LRT, effectively killing the $2.1 billion project. The decision came after construction had begun and contracts were signed, forcing Calgary to pay cancellation penalties.",
+        "sources": [
+          {
+            "url": "https://www.cbc.ca/news/canada/calgary/green-line-alberta-funding-withdrawn-1.7311456",
+            "outlet": "CBC News",
+            "publishDate": "2024-09-03",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "financialImpact": {
+          "amount": -1530000000,
+          "type": "cut",
+          "description": "Provincial funding withdrawn from Green Line LRT"
+        },
+        "actors": ["Danielle Smith", "Devin Dreeshen", "Calgary City Council"],
+        "jurisdiction": "mixed"
+      },
+      "analysis": {
+        "rightsImpact": {
+          "otherRights": ["Public transportation access", "Environmental sustainability", "Municipal planning"],
+          "scope": "systemic",
+          "reversibility": "permanent"
+        },
+        "theoreticalFrameworks": {
+          "foucault": {
+            "biopolitics": "Transit infrastructure shapes population movement and urban form. Cancellation is biopolitical decision about future city structure."
+          },
+          "arendt": {
+            "violence": "Financial violence—destroying agreed-upon project mid-construction. Institutional power used to punish municipality."
+          }
+        },
+        "patterns": [
+          "Provincial punishment of Calgary (NDP-voting city)",
+          "Anti-transit, pro-car infrastructure bias",
+          "$2.1B investment destroyed"
+        ],
+        "connectedEvents": ["ucp-bike-lane-threats-2025"],
+        "connectionType": ["thematic", "sequential"]
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07",
+        "notes": "Demonstrates pattern of UCP hostility to urban centers and public transit"
+      }
+    },
+    {
+      "id": "ucp-15-minute-city-opposition-2024",
+      "type": "priority",
+      "date": "2024-05-27",
+      "title": "15-Minute City Conspiracy Derails Edmonton District Planning",
+      "category": ["municipal-interference", "governance"],
+      "details": {
+        "description": "Edmonton's district zoning plan faced intense opposition fueled by conspiracy theories about '15-minute cities' being government control mechanisms. While not direct UCP action, conservative groups aligned with UCP promoted these narratives, derailing evidence-based urban planning.",
+        "sources": [
+          {
+            "url": "https://edmonton.citynews.ca/2024/05/27/edmonton-15-minute-city-conspiracy/",
+            "outlet": "CityNews Edmonton",
+            "publishDate": "2024-05-27",
+            "accessed": "2025-11-07"
+          }
+        ],
+        "actors": ["Edmonton City Council", "Conservative advocacy groups"],
+        "jurisdiction": "municipal"
+      },
+      "analysis": {
+        "theoreticalFrameworks": {
+          "eco": {
+            "urfascismMarkers": [
+              "Obsession with Plot - 15-minute cities as government control conspiracy",
+              "Irrationalism - Rejection of evidence-based planning",
+              "Fear of Difference - Urban planning portrayed as foreign imposition"
+            ]
+          },
+          "mcluhan": {
+            "mediumAnalysis": "Conspiracy theories spread via social media (Facebook groups, YouTube). Medium (algorithm-driven outrage) shaped message more than planning facts."
+          }
+        },
+        "patterns": [
+          "Conspiracy theories influencing policy",
+          "Rejection of expertise",
+          "Social media-driven opposition"
+        ],
+        "connectedEvents": [],
+        "connectionType": []
+      },
+      "metadata": {
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07",
+        "notes": "Indirect UCP connection through aligned advocacy groups"
+      }
+    }
+  ]
 }
