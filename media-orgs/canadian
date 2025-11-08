@@ -1,0 +1,100 @@
+{
+  "mediaOrganizations": [
+    {
+      "id": "media-cbc",
+      "legalName": "Canadian Broadcasting Corporation",
+      "operatingName": "CBC/Radio-Canada",
+      "domains": ["cbc.ca", "ici.radio-canada.ca"],
+      "legitimacy": "crtc-licensed",
+      "qcjoStatus": {
+        "designated": true,
+        "designationDate": "2020-01-15",
+        "verificationUrl": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/tax-designated-journalism-organization.html"
+      },
+      "crtcLicense": {
+        "licensed": true,
+        "licenseNumber": "CRTC 2015-1",
+        "type": "conventional"
+      },
+      "ownership": {
+        "canadianOwned": true,
+        "ownershipBreakdown": [
+          {
+            "entity": "Government of Canada (Crown Corporation)",
+            "percentage": 100,
+            "country": "CA",
+            "type": "government"
+          }
+        ],
+        "publiclyTraded": false
+      },
+      "political": {
+        "endorsements": [],
+        "ucpConnections": [],
+        "donations": []
+      },
+      "canadianContentScore": 100,
+      "metadata": {
+        "foundedYear": 1936,
+        "headquarters": "Ottawa, Ontario",
+        "employeeCount": 7500,
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07"
+      }
+    },
+    {
+      "id": "media-postmedia",
+      "legalName": "Postmedia Network Inc.",
+      "operatingName": "Postmedia",
+      "domains": ["nationalpost.com", "calgaryherald.com", "edmontonjournal.com"],
+      "legitimacy": "qcjo-designated",
+      "qcjoStatus": {
+        "designated": true,
+        "designationDate": "2020-03-01",
+        "verificationUrl": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/tax-designated-journalism-organization.html"
+      },
+      "crtcLicense": {
+        "licensed": false
+      },
+      "ownership": {
+        "canadianOwned": false,
+        "ownershipBreakdown": [
+          {
+            "entity": "Chatham Asset Management (USA)",
+            "percentage": 66,
+            "country": "US",
+            "type": "corporate",
+            "notes": "New Jersey-based hedge fund"
+          },
+          {
+            "entity": "Canadian shareholders",
+            "percentage": 34,
+            "country": "CA",
+            "type": "corporate"
+          }
+        ],
+        "publiclyTraded": true,
+        "ticker": "PNC.B (TSX)"
+      },
+      "political": {
+        "endorsements": [
+          {
+            "election": "2023 Alberta Provincial Election",
+            "date": "2023-05-15",
+            "endorsedParty": "United Conservative Party",
+            "source": "https://calgaryherald.com/opinion/editorials/editorial-ucp-2023"
+          }
+        ],
+        "ucpConnections": []
+      },
+      "canadianContentScore": 45,
+      "metadata": {
+        "foundedYear": 2010,
+        "headquarters": "Toronto, Ontario",
+        "addedDate": "2025-11-07",
+        "lastUpdated": "2025-11-07",
+        "notes": "66% foreign-owned (USA). Controls Calgary Herald and Edmonton Journal."
+      }
+    }
+  ]
+}
