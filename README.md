@@ -51,7 +51,7 @@ Code: **MIT License**
 
 ## 📧 Contact
 
-Questions or corrections: [your-email@example.com]
+Find me on LinkedIn.
 
 ---
 
