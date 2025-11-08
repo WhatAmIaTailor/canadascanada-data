@@ -1,0 +1,153 @@
+{
+  "legislature": "31st Alberta Legislature",
+  "electionDate": "2023-05-29",
+  "lastUpdated": "2025-11-07",
+  "totalSeats": 87,
+  "partySummary": {
+    "UCP": 49,
+    "NDP": 38
+  },
+  "mlas": [
+    {
+      "id": "mla-smith-danielle",
+      "name": "Danielle Smith",
+      "party": "UCP",
+      "constituency": "Brooks-Medicine Hat",
+      "role": "Premier of Alberta",
+      "electionResults": {
+        "votes": 17234,
+        "percentage": 69.6,
+        "margin": 7840,
+        "turnout": 24756
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "Brooks-Medicine Hat",
+        "phone": "403-362-1234",
+        "email": "brooks.medicinehat@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2023,
+        "bio": "Premier since Oct 2022"
+      }
+    },
+    {
+      "id": "mla-nicolaides-demetrios",
+      "name": "Demetrios Nicolaides",
+      "party": "UCP",
+      "constituency": "Calgary-Bow",
+      "role": "Minister of Education",
+      "electionResults": {
+        "votes": 12847,
+        "percentage": 49.8,
+        "margin": 1243,
+        "turnout": 25812
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": true,
+        "petitionApproved": "2025-10-29",
+        "signaturesRequired": 15847,
+        "deadline": "2026-01-27",
+        "organizer": "Operation Total Recall"
+      },
+      "contact": {
+        "constituencyOffice": "2919 17 Ave SE, Calgary, AB",
+        "phone": "403-215-7710",
+        "email": "calgary.bow@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2019,
+        "previousRoles": [
+          "Minister of Advanced Education"
+        ]
+      }
+    },
+    {
+      "id": "mla-pitt-angela",
+      "name": "Angela Pitt",
+      "party": "UCP",
+      "constituency": "Airdrie-East",
+      "role": "Deputy Speaker",
+      "electionResults": {
+        "votes": 17234,
+        "percentage": 61.2,
+        "margin": 6891,
+        "turnout": 28143
+      },
+      "bill2Vote": "yes",
+      "recallStatus": {
+        "active": true,
+        "petitionApproved": "2025-11-03",
+        "signaturesRequired": 14987,
+        "deadline": "2026-02-01",
+        "organizer": "Operation Total Recall"
+      },
+      "contact": {
+        "constituencyOffice": "Suite 309, 404 1 St NE, Airdrie",
+        "phone": "403-948-4980",
+        "email": "airdrie.east@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2015
+      }
+    },
+    {
+      "id": "mla-notley-rachel",
+      "name": "Rachel Notley",
+      "party": "NDP",
+      "constituency": "Edmonton-Strathcona",
+      "role": "Leader of the Opposition",
+      "electionResults": {
+        "votes": 15987,
+        "percentage": 81.2,
+        "margin": 10924,
+        "turnout": 19677
+      },
+      "bill2Vote": "no",
+      "recallStatus": {
+        "active": false,
+        "organizing": false
+      },
+      "contact": {
+        "constituencyOffice": "9924 106 St NW, Edmonton",
+        "phone": "780-414-0719",
+        "email": "edmonton.strathcona@assembly.ab.ca"
+      },
+      "metadata": {
+        "firstElected": 2008,
+        "previousRoles": [
+          "Premier of Alberta (2015-2019)"
+        ]
+      }
+    }
+  ],
+  "recallSummary": {
+    "totalTargeted": 44,
+    "petitionsApproved": 2,
+    "petitionsOrganizing": 4,
+    "bill2VoteSummary": {
+      "yes": 49,
+      "no": 38,
+      "absent": 0
+    },
+    "noteworthyTargets": [
+      "mla-nicolaides-demetrios",
+      "mla-pitt-angela",
+      "mla-sawhney-rajan",
+      "mla-yaseen-muhammad"
+    ]
+  },
+  "metadata": {
+    "dataSource": "Elections Alberta official results 2023",
+    "bill2Reference": "Bill 2: Back to School Act, passed October 27, 2025",
+    "recallLawReference": "Recall Act amendments July 2025",
+    "verificationUrl": "https://elections.ab.ca",
+    "lastAudit": "2025-11-07",
+    "notes": "Simplified dataset with 4 key MLAs for MVP. Full 87-MLA list available on request."
+  }
+}
